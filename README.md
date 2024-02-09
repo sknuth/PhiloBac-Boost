@@ -15,7 +15,7 @@ Note: Tous ces textes ont été générés automatiquement par GPT4. A prendre a
   <summary>Le Bonheur</summary>
 
 - "Être conscient, est-ce savoir ?" - [Explication du sujet]([./Bonheur/Chercher%20%C3%A0%20%C3%AAtre%20heureux%2C%20est-ce%20une%20qu%C3%AAte%20%C3%A9goiste.pdf)
-- "Être conscient, est-ce savoir ?" - [Explication du sujet]([./Bonheur/Devons-nous rechercher le bonheur.pdf])
+- "Être conscient, est-ce savoir ?" - [Explication du sujet]([./Bonheur/Devons-nous rechercher le bonheur.pdf)
 - "Être conscient, est-ce savoir ?" - [Explication du sujet](./Etre_conscient_est_ce_savoir.pdf)
 - "Être conscient, est-ce savoir ?" - [Explication du sujet](./Etre_conscient_est_ce_savoir.pdf)
 - "Être conscient, est-ce savoir ?" - [Explication du sujet](./Etre_conscient_est_ce_savoir.pdf)
