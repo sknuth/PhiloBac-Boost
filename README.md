@@ -1,13 +1,13 @@
-# PhiloBac-Boost
+# PhiloBac-Boost - Sujets de Baccalauréat Commentés
 Un Tremplin Vers la Réussite en Philosophie
-
-# Philosophie - Sujets de Baccalauréat Commentés
 
 ## Introduction
 
 Ce dépôt GitHub est conçu pour aider les étudiants de Terminale à se préparer pour l'épreuve de philosophie du baccalauréat. Vous trouverez ici une collection de sujets de bac classés par grandes notions philosophiques. Pour chaque sujet, un lien hypertexte vous dirigera vers un document au format PDF détaillant la problématique associée, des exemples clairs, une explication pédagogique du chemin menant du sujet à la problématique, ainsi qu'un plan de dissertation complet, une introduction rédigée, et une conclusion.
 
 Prenez ce fichier comme un guide pour approfondir votre compréhension des sujets philosophiques et perfectionner vos compétences en dissertation. Bonne exploration et bons apprentissages !
+
+Note: Tous ces textes ont été générés automatiquement par GPT4. A prendre avec précaution. Si vous trouvez des erreurs, n'hésitez pas à les signaler.
 
 ## Sujets de Baccalauréat par Notion
 
