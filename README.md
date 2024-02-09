@@ -11,9 +11,16 @@ Note: Tous ces textes ont été générés automatiquement par GPT4. A prendre a
 
 ## Sujets de Baccalauréat par Notion
 
-### La Conscience
+<details>
+  <summary>## La Conscience</summary>
 
 - "Être conscient, est-ce savoir ?" - [Explication du sujet](./Etre_conscient_est_ce_savoir.pdf)
+- "Être conscient, est-ce savoir ?" - [Explication du sujet](./Etre_conscient_est_ce_savoir.pdf)
+- "Être conscient, est-ce savoir ?" - [Explication du sujet](./Etre_conscient_est_ce_savoir.pdf)
+- "Être conscient, est-ce savoir ?" - [Explication du sujet](./Etre_conscient_est_ce_savoir.pdf)
+- "Être conscient, est-ce savoir ?" - [Explication du sujet](./Etre_conscient_est_ce_savoir.pdf)
+
+</details>
 
 ### La Perception
 
