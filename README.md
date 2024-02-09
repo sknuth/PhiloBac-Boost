@@ -10,6 +10,11 @@ Prenez ce fichier comme un guide pour approfondir votre compréhension des sujet
 Note: Tous ces textes ont été générés automatiquement par GPT4. A prendre avec précaution. Si vous trouvez des erreurs, n'hésitez pas à les signaler.
 
 ## Sujets de Baccalauréat par Notion
+La Conscience
+L'inconscient
+Le Bonheur
+L'Etat
+La liberté
 
 <details>
   <summary>Le Bonheur</summary>
