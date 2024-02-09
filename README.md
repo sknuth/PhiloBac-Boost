@@ -23,27 +23,24 @@ Note: Tous ces textes ont été générés automatiquement par GPT4. A prendre a
 
 <details>
   <summary>La Perception</summary>
-
 - "La perception est-elle source de connaissance ?" - [Explication du sujet](./La_perception_est_elle_source_de_connaissance.pdf)
 </details>
 
 <details>
-
-<summary>L'Inconscient<summary>
+<summary>L'Inconscient</summary>
 
 - "Peut-on dire que l'inconscient détermine l'homme à être ce qu'il est ?" - [Explication du sujet](./Linconscient_determine_t_il_lhomme.pdf)
 </details>
 
 <details>
 
-<summary>Autrui<summary>
-
+<summary>Autrui</summary>
 - "La présence d'autrui limite-t-elle ma liberté ?" - [Explication du sujet](./La_presence_dautrui_limite_t_elle_ma_liberte.pdf)
 </details>
 
 <details>
 
-<summary>Le Désir<summary>
+<summary>Le Désir</summary> 
 
 - "Les désirs sont-ils la marque de notre imperfection ?" - [Explication du sujet](./Les_desirs_sont_ils_marque_de_notre_imperfection.pdf)
 
