@@ -19,34 +19,33 @@ Note: Tous ces textes ont été générés automatiquement par GPT4. A prendre a
 - "Être conscient, est-ce savoir ?" - [Explication du sujet](./Etre_conscient_est_ce_savoir.pdf)
 - "Être conscient, est-ce savoir ?" - [Explication du sujet](./Etre_conscient_est_ce_savoir.pdf)
 - "Être conscient, est-ce savoir ?" - [Explication du sujet](./Etre_conscient_est_ce_savoir.pdf)
+</details>
 
+<details>
   <summary>La Perception</summary>
 
 - "La perception est-elle source de connaissance ?" - [Explication du sujet](./La_perception_est_elle_source_de_connaissance.pdf)
+</details>
+
+<details>
 
 <summary>L'Inconscient<summary>
 
 - "Peut-on dire que l'inconscient détermine l'homme à être ce qu'il est ?" - [Explication du sujet](./Linconscient_determine_t_il_lhomme.pdf)
+</details>
+
+<details>
 
 <summary>Autrui<summary>
 
 - "La présence d'autrui limite-t-elle ma liberté ?" - [Explication du sujet](./La_presence_dautrui_limite_t_elle_ma_liberte.pdf)
+</details>
+
+<details>
 
 <summary>Le Désir<summary>
 
 - "Les désirs sont-ils la marque de notre imperfection ?" - [Explication du sujet](./Les_desirs_sont_ils_marque_de_notre_imperfection.pdf)
-
-<summary>Le Devoir<summary>
-
-- "Le devoir se réduit-il à l'obéissance aux règles ?" - [Explication du sujet](./Le_devoir_se_reduit_il_a_obeissance_aux_regles.pdf)
-
-<summary>Le Bonheur<summary>
-
-- "Est-il raisonnable de rechercher le bonheur ?" - [Explication du sujet](./Est_il_raisonnable_de_rechercher_le_bonheur.pdf)
-
-<summary>La Vérité<summary>
-
-- "Peut-on dire que la vérité est toujours dérangeante ?" - [Explication du sujet](./Peut_on_dire_que_la_verite_est_toujours_derangeante.pdf)
 
 </details>
 
