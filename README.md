@@ -23,7 +23,8 @@ Note: Tous ces textes ont été générés automatiquement par GPT4. A prendre a
 
 <details>
   <summary>La Perception</summary>
-- "La perception est-elle source de connaissance ?" - [Explication du sujet](./La_perception_est_elle_source_de_connaissance.pdf)
+
+  - "La perception est-elle source de connaissance ?" - [Explication du sujet](./Etre_conscient_est_ce_savoir.pdf)
 </details>
 
 <details>
@@ -35,7 +36,9 @@ Note: Tous ces textes ont été générés automatiquement par GPT4. A prendre a
 <details>
 
 <summary>Autrui</summary>
+
 - "La présence d'autrui limite-t-elle ma liberté ?" - [Explication du sujet](./La_presence_dautrui_limite_t_elle_ma_liberte.pdf)
+
 </details>
 
 <details>
