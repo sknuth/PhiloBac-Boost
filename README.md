@@ -2,7 +2,7 @@
 
 Le Bac Philo approche et vous n'avez pas (ou peu) révisé vos notions ? 
 
-[<img src="./harold.jpg" width="40"/>](harold.jpg)
+[<img src="./harold.jpg" width="60"/>](harold.jpg)
 
 Pas de panique ! :sunglasses:
 
