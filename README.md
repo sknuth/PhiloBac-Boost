@@ -48,7 +48,7 @@ Note: Tous ces textes ont été générés automatiquement par GPT4. A prendre a
 
 <summary>La Liberté</summary>
 
-- coming soon...:hourglass_flowing_sand:
+- coming soon... :hourglass_flowing_sand:
   
 </details>
 
@@ -56,7 +56,7 @@ Note: Tous ces textes ont été générés automatiquement par GPT4. A prendre a
 
 <summary>Le Devoir</summary> 
 
-- coming soon...:hourglass_flowing_sand:
+- coming soon... :hourglass_flowing_sand:
   
 </details>
 
@@ -64,7 +64,7 @@ Note: Tous ces textes ont été générés automatiquement par GPT4. A prendre a
   
 <summary>L'Art</summary> 
 
-- coming soon...:hourglass_flowing_sand:
+- coming soon... :hourglass_flowing_sand:
   
 </details>
 
@@ -72,7 +72,7 @@ Note: Tous ces textes ont été générés automatiquement par GPT4. A prendre a
   
 <summary>La Justice</summary> 
 
-- coming soon...:hourglass_flowing_sand:
+- coming soon... :hourglass_flowing_sand:
 
 </details>
 
@@ -80,7 +80,7 @@ Note: Tous ces textes ont été générés automatiquement par GPT4. A prendre a
   
 <summary>Le Langage</summary> 
 
-- coming soon...:hourglass_flowing_sand:
+- coming soon... :hourglass_flowing_sand:
 
 </details>
 
@@ -88,7 +88,7 @@ Note: Tous ces textes ont été générés automatiquement par GPT4. A prendre a
   
 <summary>La Nature</summary> 
 
-- coming soon...:hourglass_flowing_sand:
+- coming soon... :hourglass_flowing_sand:
   
 </details>
 
@@ -96,7 +96,7 @@ Note: Tous ces textes ont été générés automatiquement par GPT4. A prendre a
   
 <summary>La Raison</summary> 
 
-- coming soon...:hourglass_flowing_sand:
+- coming soon... :hourglass_flowing_sand:
   
 </details>
 
@@ -105,7 +105,7 @@ Note: Tous ces textes ont été générés automatiquement par GPT4. A prendre a
   
 <summary>La Religion</summary> 
 
-- coming soon...:hourglass_flowing_sand:
+- coming soon... :hourglass_flowing_sand:
 
 </details>
 
@@ -113,7 +113,7 @@ Note: Tous ces textes ont été générés automatiquement par GPT4. A prendre a
   
 <summary>La Science</summary> 
 
-- coming soon...:hourglass_flowing_sand:
+- coming soon... :hourglass_flowing_sand:
 
 </details>
 
@@ -121,7 +121,7 @@ Note: Tous ces textes ont été générés automatiquement par GPT4. A prendre a
   
 <summary>La Technique</summary> 
 
-- coming soon...:hourglass_flowing_sand:
+- coming soon... :hourglass_flowing_sand:
   
 </details>
 
@@ -129,7 +129,7 @@ Note: Tous ces textes ont été générés automatiquement par GPT4. A prendre a
   
 <summary>Le Travail</summary> 
 
-- coming soon...:hourglass_flowing_sand:
+- coming soon... :hourglass_flowing_sand:
   
 </details>
 
@@ -137,7 +137,7 @@ Note: Tous ces textes ont été générés automatiquement par GPT4. A prendre a
   
 <summary>Le Temps</summary> 
 
-- coming soon...:hourglass_flowing_sand:
+- coming soon... :hourglass_flowing_sand:
   
 </details>
 
@@ -145,6 +145,6 @@ Note: Tous ces textes ont été générés automatiquement par GPT4. A prendre a
   
 <summary>La vérité</summary> 
 
-- coming soon...:hourglass_flowing_sand:
+- coming soon... :hourglass_flowing_sand:
 
 </details>
