@@ -40,7 +40,7 @@ Note: Tous ces textes ont été générés automatiquement par GPT4. A prendre a
   
 <summary>L'Etat</summary>
 
-- "Peut-on dire que l'inconscient détermine l'homme à être ce qu'il est ?" - [Explication du sujet](./Linconscient_determine_t_il_lhomme.pdf)
+- coming soon...:hourglass_flowing_sand:
 
 </details>
 
@@ -48,31 +48,31 @@ Note: Tous ces textes ont été générés automatiquement par GPT4. A prendre a
 
 <summary>La Liberté</summary>
 
-- "La présence d'autrui limite-t-elle ma liberté ?" - [Explication du sujet](./La_presence_dautrui_limite_t_elle_ma_liberte.pdf)
-
+- coming soon...:hourglass_flowing_sand:
+  
 </details>
 
 <details>
 
 <summary>Le Devoir</summary> 
 
-- "Les désirs sont-ils la marque de notre imperfection ?" - [Explication du sujet](./Les_desirs_sont_ils_marque_de_notre_imperfection.pdf)
-
+- coming soon...:hourglass_flowing_sand:
+  
 </details>
 
 <details>
   
 <summary>L'Art</summary> 
 
-- "Les désirs sont-ils la marque de notre imperfection ?" - [Explication du sujet](./Les_desirs_sont_ils_marque_de_notre_imperfection.pdf)
-
+- coming soon...:hourglass_flowing_sand:
+  
 </details>
 
 <details>
   
 <summary>La Justice</summary> 
 
-- "Les désirs sont-ils la marque de notre imperfection ?" - [Explication du sujet](./Les_desirs_sont_ils_marque_de_notre_imperfection.pdf)
+- coming soon...:hourglass_flowing_sand:
 
 </details>
 
@@ -80,26 +80,24 @@ Note: Tous ces textes ont été générés automatiquement par GPT4. A prendre a
   
 <summary>Le Langage</summary> 
 
-- "Les désirs sont-ils la marque de notre imperfection ?" - [Explication du sujet](./Les_desirs_sont_ils_marque_de_notre_imperfection.pdf)
+- coming soon...:hourglass_flowing_sand:
 
 </details>
-
 
 <details>
   
 <summary>La Nature</summary> 
 
-- "Les désirs sont-ils la marque de notre imperfection ?" - [Explication du sujet](./Les_desirs_sont_ils_marque_de_notre_imperfection.pdf)
-
+- coming soon...:hourglass_flowing_sand:
+  
 </details>
-
 
 <details>
   
 <summary>La Raison</summary> 
 
-- "Les désirs sont-ils la marque de notre imperfection ?" - [Explication du sujet](./Les_desirs_sont_ils_marque_de_notre_imperfection.pdf)
-
+- coming soon...:hourglass_flowing_sand:
+  
 </details>
 
 
@@ -107,16 +105,15 @@ Note: Tous ces textes ont été générés automatiquement par GPT4. A prendre a
   
 <summary>La Religion</summary> 
 
-- "Les désirs sont-ils la marque de notre imperfection ?" - [Explication du sujet](./Les_desirs_sont_ils_marque_de_notre_imperfection.pdf)
+- coming soon...:hourglass_flowing_sand:
 
 </details>
-
 
 <details>
   
 <summary>La Science</summary> 
 
-- "Les désirs sont-ils la marque de notre imperfection ?" - [Explication du sujet](./Les_desirs_sont_ils_marque_de_notre_imperfection.pdf)
+- coming soon...:hourglass_flowing_sand:
 
 </details>
 
@@ -124,30 +121,30 @@ Note: Tous ces textes ont été générés automatiquement par GPT4. A prendre a
   
 <summary>La Technique</summary> 
 
-- "Les désirs sont-ils la marque de notre imperfection ?" - [Explication du sujet](./Les_desirs_sont_ils_marque_de_notre_imperfection.pdf)
-
+- coming soon...:hourglass_flowing_sand:
+  
 </details>
 
 <details>
   
 <summary>Le Travail</summary> 
 
-- "Les désirs sont-ils la marque de notre imperfection ?" - [Explication du sujet](./Les_desirs_sont_ils_marque_de_notre_imperfection.pdf)
-
+- coming soon...:hourglass_flowing_sand:
+  
 </details>
 
 <details>
   
 <summary>Le Temps</summary> 
 
-- "Les désirs sont-ils la marque de notre imperfection ?" - [Explication du sujet](./Les_desirs_sont_ils_marque_de_notre_imperfection.pdf)
-
+- coming soon...:hourglass_flowing_sand:
+  
 </details>
 
 <details>
   
 <summary>La vérité</summary> 
 
-- "Les désirs sont-ils la marque de notre imperfection ?" - [Explication du sujet](./Les_desirs_sont_ils_marque_de_notre_imperfection.pdf)
+- coming soon...:hourglass_flowing_sand:
 
 </details>
