@@ -1,46 +1,55 @@
 1. **Explication du sujet** :
 
-Le sujet pose la question de notre degré de contrôle ou d'influence sur notre propre bonheur. C'est une question profondément philosophique, touchant à des concepts tels que le libre arbitre, la déterminisme, le bonheur, et l'utilisation de notre volonté pour influencer notre réalité.
+Le sujet "Dépend-il de nous d’être heureux ?" nous invite à nous interroger sur la nature du bonheur et sa dépendance à notre volonté ou à notre liberté. 
 
-```
-- Exemple 1 : Considérons une personne qui travaille dans un emploi qu'elle n'aime pas. Peut-elle choisir d'être heureuse malgré les circonstances ? 
-- Exemple 2 : Prenons l'exemple d'une personne qui est née dans une situation moins privilégiée. Cette personne peut-elle choisir d'être heureuse malgré les circonstances dans lesquelles elle est née ?
-- Exemple 3: Imaginons une personne dont la vie est affectée par une maladie chronique. Est-il en son pouvoir de trouver le bonheur malgré sa condition de santé ?
-- Exemple 4 : Pensez à une personne qui a perdu un être cher. Peut-on trouver le bonheur après une telle perte ?
-```
+- Example 1 : Considérons un individu qui met tout en oeuvre pour être heureux : il fait ce qu'il aime, évite les situations de stress, réalise ses ambitions, etc. Malgré tout, il n'est pas forcément heureux car le bonheur ne dépend pas uniquement de nos actions, mais aussi de contingences imprévues ou d'éléments de notre environnement sur lesquels nous n'avons pas de prise.
+
+- Example 2 : Prenons le cas d’une personne qui ne fait aucun effort pour être heureuse. Par chance, sa vie est tranquille et confortable, et elle se sent heureuse. Ce cas fait émerger une autre dimension du bonheur : parfois, on peut être heureux sans que cela ne dépende de notre volonté ou de nos actions.
+
+- Example 3 : On peut également penser à une personne qui met tout en œuvre pour être heureuse dans une carrière artistique, mais dont l'échec répété la déprime. Ici, la possibilité du bonheur est clairement entravée par des contraintes extérieures.
+
+- Example 4 : À l'opposé, considérons une personne née dans des conditions difficiles mais qui, par une positive attitude et une détermination inébranlable, finit par être heureuse. Cette personne semble bien illustrer l'idée que le bonheur pourrait dépendre de nous.
+
+En somme, le sujet nous invite à nous interroger sur le rôle de notre volonté, de nos actions et des conditions extérieures dans le processus d'accès au bonheur.
 
 2. **Du sujet à la problématique** :
 
-Analysons d'abord les termes clés du sujet. "Dépend-il" donne l'indication qu'il s'agit d'une question de contrôle ou d'influence. "de nous" indique qu'il s'agit de notre pouvoir ou volonté individuelle. "d'être heureux" se rapporte à l'état de satisfaction, de plénitude ou de contentement. En regardant le sujet analytiquement, la question implicite qui se pose est: Est-ce que notre bonheur est entièrement sous notre contrôle ou est-il déterminé par des facteurs extérieurs ? 
+Le sujet contient trois termes principaux : "dépendre", "nous" et "être heureux". "Dépendre" renvoie à l'idée de contrôle, d'influence. "Nous" fait référence au sujet agissant, c'est-à-dire à la capacité humaine à choisir, à agir, à se projeter. Enfin, "être heureux" fait référence à l'état de satisfaction globale, d'épanouissement. La question implicite qui ressort de l'analyse de ces termes est donc : Est-ce que l'état de bonheur est quelque chose que l'on peut volontairement réaliser ou est-il le produit de facteurs externes que l'on ne contrôle pas ?
 
 3. **La problématique** :
 
-La problématique qui ressort de ce sujet serait donc : Dans quelle mesure notre bonheur est-il sous notre contrôle et est-il influencé par des facteurs extérieurs à notre volonté ?
+La problématique peut être formulée ainsi : Dans quelle mesure est-on maître de son propre bonheur ? Le bonheur résulte-t-il de notre volonté et de nos actions ou est-il le produit de circonstances que l'on ne maîtrise pas toujours ?
 
 4. **Introduction rédigée**:
 
-Le bonheur, état de satisfaction intense et durable, est l'objectif universel de l'existence humaine. Chacun aspire à le trouver, mais est-ce réellement à notre portée ? Est-ce une question de choix, ou bien sommes-nous soumis à des circonstances extérieures à notre volonté ? "Dépend-il de nous d’être heureux ?" Cette question nous invite à une réflexion profonde sur la notion du bonheur, du libre arbitre et de la détermination. Nous pourrions d'abord être tentés de penser que nous avons le plein contrôle sur notre bonheur, en choisissant délibérément des actions qui favorisent notre bien-être. Pourtant, il semble que des facteurs extérieurs à notre volonté influencent également notre accès au bonheur. Pour mieux comprendre, explorons plus en profondeur cette idée.
+"Le bonheur est un état que chacun aspire à atteindre. C'est une quête universelle qui guide bien des actions et des choix. Pourtant, sommes-nous réellement en mesure de l'obtenir par la seule force de notre volonté ? Le sujet nous invite à réfléchir sur la nature du bonheur et sur la part de notre liberté dans sa réalisation. Devant la diversité des expériences de vie, on peut légitiment s'interroger : Dépend-il de nous d’être heureux ? Notre tâche sera de sonder le rôle de notre volonté et de nos actions dans l'obtention du bonheur tout autant que celui des facteurs externes."
 
 5. **Plan détaillé**:
 
-* **I. L’individu a le pouvoir de se rendre heureux**
-    1. Le libre arbitre permet à l'individu de choisir ce qui le rend heureux
-          - Exemple : Une personne quitte un travail qu'elle n'aime pas pour poursuivre une passion
-    2. La perception et l'attitude individuelles peuvent avoir une influence sur le bonheur
-          - Exemple : La pratique de la gratitude pour apprécier les bonheurs quotidiens
+* **I. Le bonheur peut dépendre de nous**
 
-* **II. Le bonheur est influencé par des facteurs extérieurs à l'individu**
-    1. La société et la culture peuvent dicter à l'individu ce qui devrait le rendre heureux
-          - Exemple : Les publicités véhiculant un idéal de bonheur lié à la consommation
-    2. Les réalités matérielles de l'individu peuvent affecter son accès au bonheur
-          - Exemple : La pauvreté et le manque de ressources limitent les opportunités de bonheur
+    1. Argument: Le bonheur comme résultat de nos actions 
+          - Exemple : Un individu qui se donne les moyens de réaliser ses ambitions personnelles et professionnelles peut atteindre un état de bonheur.
+  
+    2. Argument : Le bonheur comme affaire d'attitude et de prise de décision
+          - Exemple : L'individu qui, face à la adversité, réussit tout de même à être heureux grâce à son attitude positive et à sa résilience.
 
-* **III. Le bonheur est un équilibre entre facteurs internes et externes**
-    1. Le bonheur est à la fois une responsabilité personnelle et un effet des conditions de vie
-          - Exemple : Une personne qui pratique la gratitude tout en luttant pour améliorer ses conditions de vie
-    2. Le bonheur ne peut être atteint que par lacompréhension et l'acceptation de ces facteurs
-          - Exemple : La quête du stoïcisme pour le contentement face aux aléas de la vie
+* **II. Le bonheur ne dépend pas toujours de nous**
 
-6. **Conclusion rédigée**:
-   
-Pour conclure, les circonstances de la vie peuvent être des obstacles, mais notre attitude et notre perspective peuvent nous aider à naviguer à travers eux. Le bonheur est donc en quelque sorte une co-création, un mélange de ce que nous contrôlons et de ce qui est dans la vague du cours de la vie. Il s'ensuit donc que le bonheur dépend à la fois de facteurs internes et externes. Cela met en évidence l'importance de travailler à la fois sur soi-même et sa perception des choses, et de lutter pour améliorer les conditions matérielles de son existence.
+    1. Argument: Les obstacles extérieurs à notre poursuite du bonheur
+          - Exemple : L'artiste talentueux qui ne parvient pas à vivre de son art en dépit de ses efforts peut avoir du mal à être heureux.
+    
+    2. Argument: L'influence de la chance ou du destin dans notre bonheur
+          - Exemple : L'individu qui mène une vie paisible et satisfaisante sans avoir à faire d'efforts particuliers grâce à un environnement favorable.
+
+* **III. Réconcilier les deux perspectives : le bonheur comme interaction entre nous et notre environnement**
+
+    1. Argument: Le bonheur nécessite un dosage entre effort personnel et acceptation de ce qui est hors de notre contrôle
+          - Exemple : Accepter les contraintes de la vie tout en luttant pour réaliser ses objectifs peut amener à un bonheur serein et mature.
+    
+    2. Argument: Le bonheur dépend aussi de notre capacité à adapter nos attentes et à valoriser nos progrès
+          - Exemple : Une personne qui ajuste ses attentes en fonction des réalités de sa vie et qui apprécie les petites victoires peut éprouver un sentiment de bonheur.
+
+6. **Conclusion rédigée**: 
+
+"Au terme de notre réflexion, il ressort que le bonheur est un état complexe, qui dépend à la fois de notre volonté, de nos actions, mais aussi des circonstances externes. Si nous avons une certaine influence sur notre bonheur par nos choix et nos attitudes, nous ne sommes pas à l'abri des aléas de la vie ni des limites imposées par notre environnement. Au final, la vraie maîtrise de notre bonheur réside peut-être dans notre capacité à accepter cette part d'imprévu et à opérer les ajustements nécessaires tout en restant actifs dans la quête de notre bien-être. Le bonheur, au lieu d'être un but absolue, serait alors un chemin que chacun dessine au meilleur de ses capacités."
