@@ -10,12 +10,15 @@ Le sujet pose la question de notre degré de contrôle ou d'influence sur notre 
 ```
 
 **Du sujet à la problématique** :
+
 Analysons d'abord les termes clés du sujet. "Dépend-il" donne l'indication qu'il s'agit d'une question de contrôle ou d'influence. "de nous" indique qu'il s'agit de notre pouvoir ou volonté individuelle. "d'être heureux" se rapporte à l'état de satisfaction, de plénitude ou de contentement. En regardant le sujet analytiquement, la question implicite qui se pose est: Est-ce que notre bonheur est entièrement sous notre contrôle ou est-il déterminé par des facteurs extérieurs ? 
 
 3. **La problématique** :
+
 La problématique qui ressort de ce sujet serait donc : Dans quelle mesure notre bonheur est-il sous notre contrôle et est-il influencé par des facteurs extérieurs à notre volonté ?
 
 4. **Introduction rédigée**:
+
 Le bonheur, état de satisfaction intense et durable, est l'objectif universel de l'existence humaine. Chacun aspire à le trouver, mais est-ce réellement à notre portée ? Est-ce une question de choix, ou bien sommes-nous soumis à des circonstances extérieures à notre volonté ? "Dépend-il de nous d’être heureux ?" Cette question nous invite à une réflexion profonde sur la notion du bonheur, du libre arbitre et de la détermination. Nous pourrions d'abord être tentés de penser que nous avons le plein contrôle sur notre bonheur, en choisissant délibérément des actions qui favorisent notre bien-être. Pourtant, il semble que des facteurs extérieurs à notre volonté influencent également notre accès au bonheur. Pour mieux comprendre, explorons plus en profondeur cette idée.
 
 5. **Plan détaillé**:
