@@ -9,11 +9,6 @@ Pas de panique ! :sunglasses:
 PhiloBac Boost est un outil de révision basé sur des sujets du bac provenant des annales depuis 2005. :books:
 Chaque sujet y est commenté avec une problématique, un plan, une introduction et une conclusion déjà rédigée. :black_nib:
 
-ou bien :
-
-PhiloBac Boost est une ressource précieuse pour se préparer à l'épreuve de philosophie du bac. 
-Vous y trouverz une analyse de sujets réels depuis 2005 avec problématiques, plans, introductions et conclusions rédigées.
-
 Note: Tous ces textes ont été générés automatiquement par GPT4. A prendre avec précaution. Si vous trouvez des erreurs, n'hésitez pas à les signaler.
 
 ## Sujets de Baccalauréat par Notion
