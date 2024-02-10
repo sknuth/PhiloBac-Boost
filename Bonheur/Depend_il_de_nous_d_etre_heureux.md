@@ -1,45 +1,38 @@
-**1. Explication du sujet** : 
-"Dépend-il de nous d’être heureux ?", ce sujet de dissertation de philosophie nous interroge sur l'origine et le contrôle de notre bonheur. Le "nous" indique que nous réfléchissons à une dimension à la fois individuelle et collective de l'être humain. L'usage du verbe "dépendre" soulève une question de causalité et d'origine. Donc, qui ou quoi est responsable de notre bonheur ?
+1. **Explication du sujet** :
+Le sujet pose la question de notre degré de contrôle ou d'influence sur notre propre bonheur. C'est une question profondément philosophique, touchant à des concepts tels que le libre arbitre, la déterminisme, le bonheur, et l'utilisation de notre volonté pour influencer notre réalité.
+- Exemple 1 : Considérons une personne qui travaille dans un emploi qu'elle n'aime pas. Peut-elle choisir d'être heureuse malgré les circonstances ? 
+- Exemple 2 : Prenons l'exemple d'une personne qui est née dans une situation moins privilégiée. Cette personne peut-elle choisir d'être heureuse malgré les circonstances dans lesquelles elle est née ?
+- Exemple 3: Imaginons une personne dont la vie est affectée par une maladie chronique. Est-il en son pouvoir de trouver le bonheur malgré sa condition de santé ?
+- Exemple 4 : Pensez à une personne qui a perdu un être cher. Peut-on trouver le bonheur après une telle perte ?
 
-Exemple 1 : Si je mange de la glace parce que cela me rend heureux, est-ce mon choix de manger de la glace qui me rend heureux ou est-ce une conséquence de la satisfaction de mes envies ?
+**Du sujet à la problématique** :
+Analysons d'abord les termes clés du sujet. "Dépend-il" donne l'indication qu'il s'agit d'une question de contrôle ou d'influence. "de nous" indique qu'il s'agit de notre pouvoir ou volonté individuelle. "d'être heureux" se rapporte à l'état de satisfaction, de plénitude ou de contentement. En regardant le sujet analytiquement, la question implicite qui se pose est: Est-ce que notre bonheur est entièrement sous notre contrôle ou est-il déterminé par des facteurs extérieurs ? 
 
-Exemple 2 : Prenons un milliardaire qui possède tout ce qu'il désire mais qui est déprimé. Cela suggère que le bonheur n'est pas uniquement lié à l'accumulation de biens matériels.
+3. **La problématique** :
+La problématique qui ressort de ce sujet serait donc : Dans quelle mesure notre bonheur est-il sous notre contrôle et est-il influencé par des facteurs extérieurs à notre volonté ?
 
-Exemple 3 : Qu'en est-il du bonheur que l'on ressent lorsqu'on donne aux autres ? Cela dépend-il de notre décision de donner ou de la réaction de la personne qui reçoit ?
+4. **Introduction rédigée**:
+Le bonheur, état de satisfaction intense et durable, est l'objectif universel de l'existence humaine. Chacun aspire à le trouver, mais est-ce réellement à notre portée ? Est-ce une question de choix, ou bien sommes-nous soumis à des circonstances extérieures à notre volonté ? "Dépend-il de nous d’être heureux ?" Cette question nous invite à une réflexion profonde sur la notion du bonheur, du libre arbitre et de la détermination. Nous pourrions d'abord être tentés de penser que nous avons le plein contrôle sur notre bonheur, en choisissant délibérément des actions qui favorisent notre bien-être. Pourtant, il semble que des facteurs extérieurs à notre volonté influencent également notre accès au bonheur. Pour mieux comprendre, explorons plus en profondeur cette idée.
 
-Exemple 4 : Supposons une situation où une personne vit dans une société oppressive. Cette personne peut-elle choisir d'être heureuse en dépit des circonstances externes ?
+5. **Plan détaillé**:
 
-**2. Du sujet à la problématique** : 
-Analysons les principaux termes du sujet. Le terme "dépend" pose la question de la causalité et du contrôle. Le terme "nous" nous invite à réfléchir au rôle de l'individu et de la collectivité dans l'obtention du bonheur. Le terme "être heureux" suppose une condition ou un état de bien-être subjectif. En rapprochant ces termes, la question implicite pourrait être : "En quoi le bonheur est-il sous notre contrôle et en quoi est-il influencé par des facteurs externes à nous ?".
+* **I. L’individu a le pouvoir de se rendre heureux**
+    1. Le libre arbitre permet à l'individu de choisir ce qui le rend heureux
+          - Exemple : Une personne quitte un travail qu'elle n'aime pas pour poursuivre une passion
+    2. La perception et l'attitude individuelles peuvent avoir une influence sur le bonheur
+          - Exemple : La pratique de la gratitude pour apprécier les bonheurs quotidiens
 
-**3. La problématique** : 
-La problématique de cette dissertation pourrait donc se formuler ainsi : "Dans quelle mesure notre bonheur est-il déterminé par notre propre volonté et choix et dans quelle mesure est-il conditionné par des facteurs qui échappent à notre volonté ?"
+* **II. Le bonheur est influencé par des facteurs extérieurs à l'individu**
+    1. La société et la culture peuvent dicter à l'individu ce qui devrait le rendre heureux
+          - Exemple : Les publicités véhiculant un idéal de bonheur lié à la consommation
+    2. Les réalités matérielles de l'individu peuvent affecter son accès au bonheur
+          - Exemple : La pauvreté et le manque de ressources limitent les opportunités de bonheur
 
-**4. Introduction rédigée** : 
-Le bonheur est souvent perçu comme l'objectif suprême de la vie humaine. Cependant, sa réalisation semble être un défi constant car dépend-elle vraiment de nous ? C'est le questionnement posé par le sujet : "Dépend-il de nous d’être heureux ?". Ce thème philosophique invite à une réflexion sur le rôle de l'autonomie, de la volonté et des choix individuels face aux facteurs extérieurs dans la quête de bonheur. La problématique à laquelle nous chercherons une réponse tout au long de cette dissertation est donc la suivante : "Dans quelle mesure notre bonheur est-il déterminé par notre propre volonté et choix et dans quelle mesure est-il conditionné par des facteurs qui échappent à notre volonté ?".
+* **III. Le bonheur est un équilibre entre facteurs internes et externes**
+    1. Le bonheur est à la fois une responsabilité personnelle et un effet des conditions de vie
+          - Exemple : Une personne qui pratique la gratitude tout en luttant pour améliorer ses conditions de vie
+    2. Le bonheur ne peut être atteint que par lacompréhension et l'acceptation de ces facteurs
+          - Exemple : La quête du stoïcisme pour le contentement face aux aléas de la vie
 
-**5. Plan détaillé** :
-
-* **I. Le bonheur dépend de nous**
-    1. Argument : Notre volonté et nos choix conditionnent notre bien-être
-          - Exemple : Le choix d'adopter un mode de vie sain peut grandement influencer notre bien-être
-
-    2. Argument : La poursuite d'activités qui nous procurent du plaisir et de la satisfaction contribue à notre bonheur.
-          - Exemple : L'engagement dans des hobbies ou des activités enrichissantes comme la lecture, l'art ou le sport
-
-* **II. Le bonheur dépend de facteurs extérieurs**
-    1. Argument : Les conditions sociaux-économiques influencent notre capacité à être heureux.
-          - Exemple : Une personne vivant dans la pauvreté ou la précarité peut avoir du mal à atteindre le bonheur
-
-    2. Argument : Les relations interpersonnelles ont un impact significatif sur notre bonheur.
-          - Exemple : La présence de relations saines et enrichissantes peut augmenter notre sentiment de bien-être et de bonheur
-
-* **III. La combinaison de facteurs internes et externes détermine le bonheur**
-    1. Argument : L'équilibre entre les facteurs internes (nos choix, nos valeurs) et les facteurs externes (environnement, relations) est essentiel pour atteindre le bonheur.
-          - Exemple : Même si une personne vit dans des conditions difficiles, l'adoption d'une perspective positive peut contribuer à son bien-être
-
-    2. Argument : Nous avons un rôle actif à jouer en cherchant à influencer les facteurs externes et en faisant des choix qui augmentent notre bien-être.
-          - Exemple : Effectuer des changements de carrière ou de mode de vie selon ce qui nous rend heureux
-
-**6. Conclusion rédigée** : 
-En conclusion, la question de savoir si le bonheur dépend de nous est complexe. Il semble que nous avons un certain degré de contrôle sur notre bonheur par nos choix et notre volonté. Cependant, des facteurs externes comme notre environnement socio-économique ou nos relations interpersonnelles ont également un impact significatif. Il est donc essentiel de chercher un équilibre entre ces facteurs internes et externes pour maximiser notre potentiel de bonheur. Aussi, il faut prendre le bonheur comme un processus continu et non comme une destination finale, ce qui demande une réévaluation constante de nos choix et de nos réactions face aux situations que nous rencontrons.
+6. **Conclusion rédigée**:
+Pour conclure, les circonstances de la vie peuvent être des obstacles, mais notre attitude et notre perspective peuvent nous aider à naviguer à travers eux. Le bonheur est donc en quelque sorte une co-création, un mélange de ce que nous contrôlons et de ce qui est dans la vague du cours de la vie. Il s'ensuit donc que le bonheur dépend à la fois de facteurs internes et externes. Cela met en évidence l'importance de travailler à la fois sur soi-même et sa perception des choses, et de lutter pour améliorer les conditions matérielles de son existence.
