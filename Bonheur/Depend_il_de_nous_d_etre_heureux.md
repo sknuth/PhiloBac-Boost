@@ -1,9 +1,11 @@
 1. **Explication du sujet** :
+
 Le sujet pose la question de notre degré de contrôle ou d'influence sur notre propre bonheur. C'est une question profondément philosophique, touchant à des concepts tels que le libre arbitre, la déterminisme, le bonheur, et l'utilisation de notre volonté pour influencer notre réalité.
-- Exemple 1 : Considérons une personne qui travaille dans un emploi qu'elle n'aime pas. Peut-elle choisir d'être heureuse malgré les circonstances ? 
-- Exemple 2 : Prenons l'exemple d'une personne qui est née dans une situation moins privilégiée. Cette personne peut-elle choisir d'être heureuse malgré les circonstances dans lesquelles elle est née ?
+
+```- Exemple 1 : Considérons une personne qui travaille dans un emploi qu'elle n'aime pas. Peut-elle choisir d'être heureuse malgré les circonstances ? 
+- Exemple 2 : Prenons l'exemple d'une personne qui est née dans une situation moins privilégiée. Cette personne peut-elle choisir d'être heureuse malgré les circonstances dans lesquelles elle est née ?```
 - Exemple 3: Imaginons une personne dont la vie est affectée par une maladie chronique. Est-il en son pouvoir de trouver le bonheur malgré sa condition de santé ?
-- Exemple 4 : Pensez à une personne qui a perdu un être cher. Peut-on trouver le bonheur après une telle perte ?
+- Exemple 4 : Pensez à une personne qui a perdu un être cher. Peut-on trouver le bonheur après une telle perte ?```
 
 **Du sujet à la problématique** :
 Analysons d'abord les termes clés du sujet. "Dépend-il" donne l'indication qu'il s'agit d'une question de contrôle ou d'influence. "de nous" indique qu'il s'agit de notre pouvoir ou volonté individuelle. "d'être heureux" se rapporte à l'état de satisfaction, de plénitude ou de contentement. En regardant le sujet analytiquement, la question implicite qui se pose est: Est-ce que notre bonheur est entièrement sous notre contrôle ou est-il déterminé par des facteurs extérieurs ? 
