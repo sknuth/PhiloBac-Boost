@@ -1,6 +1,7 @@
 ## PhiloBac-Boost - Sujets de Baccalauréat Commentés
 
 Le Bac Philo approche et vous n'avez pas (ou peu) révisé vos notions ?
+
 Pas de panique ! 
 
 PhiloBac Boost est un outil de révision basé sur des sujets du bac provenant des annales depuis 2005. 
