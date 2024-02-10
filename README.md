@@ -17,30 +17,29 @@ Note: Tous ces textes ont été générés automatiquement par GPT4. A prendre a
 <details>
   <summary>La Conscience</summary>
 
-
   - "La perception est-elle source de connaissance ?" - [Explication du sujet](./Etre_conscient_est_ce_savoir.pdf)   
+
 </details>
 
 <details>
-  <summary>L'inconscient</summary>
-
+  <summary>L'Inconscient</summary>
 
   - "La perception est-elle source de connaissance ?" - [Explication du sujet](./Etre_conscient_est_ce_savoir.pdf)
+
 </details>
 
 <details>
   <summary>Le Bonheur</summary>
-
 
 - "Être conscient, est-ce savoir ?" - [Explication du sujet](./Bonheur/Chercher%20%C3%A0%20%C3%AAtre%20heureux%2C%20est-ce%20une%20qu%C3%AAte%20%C3%A9goiste.pdf)
 - "Devons nous rechercher le bonheur ?" - [Explication du sujet](./Bonheur/Devons-nous_rechercher_le_bonheur.pdf)
 - "Être conscient, est-ce savoir ?" - [Explication du sujet](./Etre_conscient_est_ce_savoir.pdf)
 - "Être conscient, est-ce savoir ?" - [Explication du sujet](./Etre_conscient_est_ce_savoir.pdf)
 - "Être conscient, est-ce savoir ?" - [Explication du sujet](./Etre_conscient_est_ce_savoir.pdf)
+
 </details>
 
-<details>
-  
+<details>  
 <summary>L'Etat</summary>
 
 - coming soon... :hourglass_flowing_sand:
@@ -48,7 +47,6 @@ Note: Tous ces textes ont été générés automatiquement par GPT4. A prendre a
 </details>
 
 <details>
-
 <summary>La Liberté</summary>
 
 - coming soon... :hourglass_flowing_sand:
@@ -56,7 +54,6 @@ Note: Tous ces textes ont été générés automatiquement par GPT4. A prendre a
 </details>
 
 <details>
-
 <summary>Le Devoir</summary> 
 
 - coming soon... :hourglass_flowing_sand:
@@ -64,7 +61,6 @@ Note: Tous ces textes ont été générés automatiquement par GPT4. A prendre a
 </details>
 
 <details>
-  
 <summary>L'Art</summary> 
 
 - coming soon... :hourglass_flowing_sand:
@@ -72,7 +68,6 @@ Note: Tous ces textes ont été générés automatiquement par GPT4. A prendre a
 </details>
 
 <details>
-  
 <summary>La Justice</summary> 
 
 - coming soon... :hourglass_flowing_sand:
@@ -80,7 +75,6 @@ Note: Tous ces textes ont été générés automatiquement par GPT4. A prendre a
 </details>
 
 <details>
-  
 <summary>Le Langage</summary> 
 
 - coming soon... :hourglass_flowing_sand:
@@ -88,7 +82,6 @@ Note: Tous ces textes ont été générés automatiquement par GPT4. A prendre a
 </details>
 
 <details>
-  
 <summary>La Nature</summary> 
 
 - coming soon... :hourglass_flowing_sand:
@@ -96,7 +89,6 @@ Note: Tous ces textes ont été générés automatiquement par GPT4. A prendre a
 </details>
 
 <details>
-  
 <summary>La Raison</summary> 
 
 - coming soon... :hourglass_flowing_sand:
@@ -105,7 +97,6 @@ Note: Tous ces textes ont été générés automatiquement par GPT4. A prendre a
 
 
 <details>
-  
 <summary>La Religion</summary> 
 
 - coming soon... :hourglass_flowing_sand:
@@ -113,7 +104,6 @@ Note: Tous ces textes ont été générés automatiquement par GPT4. A prendre a
 </details>
 
 <details>
-  
 <summary>La Science</summary> 
 
 - coming soon... :hourglass_flowing_sand:
@@ -121,7 +111,6 @@ Note: Tous ces textes ont été générés automatiquement par GPT4. A prendre a
 </details>
 
 <details>
-  
 <summary>La Technique</summary> 
 
 - coming soon... :hourglass_flowing_sand:
@@ -129,7 +118,6 @@ Note: Tous ces textes ont été générés automatiquement par GPT4. A prendre a
 </details>
 
 <details>
-  
 <summary>Le Travail</summary> 
 
 - coming soon... :hourglass_flowing_sand:
@@ -137,7 +125,6 @@ Note: Tous ces textes ont été générés automatiquement par GPT4. A prendre a
 </details>
 
 <details>
-  
 <summary>Le Temps</summary> 
 
 - coming soon... :hourglass_flowing_sand:
@@ -145,8 +132,7 @@ Note: Tous ces textes ont été générés automatiquement par GPT4. A prendre a
 </details>
 
 <details>
-  
-<summary>La vérité</summary> 
+<summary>La Vérité</summary> 
 
 - coming soon... :hourglass_flowing_sand:
 
