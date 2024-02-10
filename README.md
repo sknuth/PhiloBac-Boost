@@ -31,7 +31,7 @@ Note: Tous ces textes ont été générés automatiquement par GPT4. A prendre a
 <details>
   <summary>Le Bonheur</summary>
 
-- "Chercher à être heureux, est-ce une quête égoiste ?" - [Explication du sujet](./Bonheur/Chercher à être heureux, est-ce une quête égoiste.md)
+- "Chercher à être heureux, est-ce une quête égoiste ?" - [Explication du sujet](./Bonheur/"Chercher_à_être_heureux_est-ce_une_quête_égoiste.pdf)
 - "Devons nous rechercher le bonheur ?" - [Explication du sujet](./Bonheur/Devons-nous_rechercher_le_bonheur.pdf)
 - "Être conscient, est-ce savoir ?" - [Explication du sujet](./Etre_conscient_est_ce_savoir.pdf)
 - "Être conscient, est-ce savoir ?" - [Explication du sujet](./Etre_conscient_est_ce_savoir.pdf)
