@@ -9,7 +9,7 @@ Le sujet pose la question de notre degré de contrôle ou d'influence sur notre 
 - Exemple 4 : Pensez à une personne qui a perdu un être cher. Peut-on trouver le bonheur après une telle perte ?
 ```
 
-**Du sujet à la problématique** :
+2. **Du sujet à la problématique** :
 
 Analysons d'abord les termes clés du sujet. "Dépend-il" donne l'indication qu'il s'agit d'une question de contrôle ou d'influence. "de nous" indique qu'il s'agit de notre pouvoir ou volonté individuelle. "d'être heureux" se rapporte à l'état de satisfaction, de plénitude ou de contentement. En regardant le sujet analytiquement, la question implicite qui se pose est: Est-ce que notre bonheur est entièrement sous notre contrôle ou est-il déterminé par des facteurs extérieurs ? 
 
