@@ -1,6 +1,8 @@
 ## PhiloBac-Boost - Sujets de Baccalauréat Commentés
 
-Le Bac Philo approche et vous n'avez pas (ou peu) révisé vos notions ? :hourglass_flowing_sand: [<img src="./harold.jpg" width="25"/>](harold.jpg)
+Le Bac Philo approche et vous n'avez pas (ou peu) révisé vos notions ? 
+
+[<img src="./harold.jpg" width="40"/>](harold.jpg)
 
 Pas de panique ! :sunglasses:
 
