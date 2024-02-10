@@ -1,7 +1,4 @@
 ## PhiloBac-Boost - Sujets de Baccalauréat Commentés
-Un Tremplin Vers la Réussite en Philosophie
-
-## Introduction
 
 Le Bac Philo approche et vous n'avez pas (ou peu) révisé vos notions ?
 Pas de panique ! 
