@@ -17,17 +17,20 @@ Note: Tous ces textes ont été générés automatiquement par GPT4. A prendre a
 <details>
   <summary>La Conscience</summary>
 
-  - "La perception est-elle source de connaissance ?" - [Explication du sujet](./Etre_conscient_est_ce_savoir.pdf)
+
+  - "La perception est-elle source de connaissance ?" - [Explication du sujet](./Etre_conscient_est_ce_savoir.pdf)   
 </details>
 
 <details>
   <summary>L'inconscient</summary>
+
 
   - "La perception est-elle source de connaissance ?" - [Explication du sujet](./Etre_conscient_est_ce_savoir.pdf)
 </details>
 
 <details>
   <summary>Le Bonheur</summary>
+
 
 - "Être conscient, est-ce savoir ?" - [Explication du sujet](./Bonheur/Chercher%20%C3%A0%20%C3%AAtre%20heureux%2C%20est-ce%20une%20qu%C3%AAte%20%C3%A9goiste.pdf)
 - "Devons nous rechercher le bonheur ?" - [Explication du sujet](./Bonheur/Devons-nous_rechercher_le_bonheur.pdf)
