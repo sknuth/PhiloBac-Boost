@@ -40,7 +40,7 @@ Note: Tous ces textes ont été générés automatiquement par GPT4. A prendre a
   
 <summary>L'Etat</summary>
 
-- coming soon...:hourglass_flowing_sand:
+- coming soon... :hourglass_flowing_sand:
 
 </details>
 
