@@ -4,7 +4,7 @@ Le sujet pose la question de notre degré de contrôle ou d'influence sur notre 
 
 ```
 - Exemple 1 : Considérons une personne qui travaille dans un emploi qu'elle n'aime pas. Peut-elle choisir d'être heureuse malgré les circonstances ? 
-- Exemple 2 : Prenons l'exemple d'une personne qui est née dans une situation moins privilégiée. Cette personne peut-elle choisir d'être heureuse malgré les circonstances dans lesquelles elle est née ?```
+- Exemple 2 : Prenons l'exemple d'une personne qui est née dans une situation moins privilégiée. Cette personne peut-elle choisir d'être heureuse malgré les circonstances dans lesquelles elle est née ?
 - Exemple 3: Imaginons une personne dont la vie est affectée par une maladie chronique. Est-il en son pouvoir de trouver le bonheur malgré sa condition de santé ?
 - Exemple 4 : Pensez à une personne qui a perdu un être cher. Peut-on trouver le bonheur après une telle perte ?
 ```
