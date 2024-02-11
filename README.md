@@ -13,6 +13,12 @@ Chaque sujet y est commenté en termes simples et accessibles avec une probléma
 Note: Tous ces textes ont été générés automatiquement par GPT4. A prendre avec précaution. Ils forment néanmoins une base si vous partez de zéro. 
 Si vous trouvez des erreurs, n'hésitez pas à les signaler.
 
+  Sujet | Commentaire 
+  :---: | :---: 
+   "Etre conscient est-ce savoir ?" |  [Explication du sujet](./Conscience/Etre_conscient_est_ce_savoir.md) 
+   "La conscience n'est-elle tournée que vers elle même ?" | [Explication du sujet](./Conscience/La_conscience_n_est_elle_tournee_que_vers_elle_meme.md) 
+   "La conscience peut-elle être un fardeau ?" | [Explication du sujet](./Conscience/La_conscience_peut_elle_etre_un_fardeau.md)   
+
 ## Sujets de Baccalauréat par Notion
 
 <details>
