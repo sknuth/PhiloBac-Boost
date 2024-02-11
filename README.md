@@ -1,4 +1,4 @@
-![GitHub Image](/harold.jpg)
+![GitHub Image](/image 10b.jpg)
 
 ## PhiloBac-Boost - Sujets de Baccalauréat Commentés
 
