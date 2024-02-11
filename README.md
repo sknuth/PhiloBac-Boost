@@ -115,16 +115,16 @@ Si vous trouvez des erreurs, n'hésitez pas à les signaler.
 
 Sujet | Commentaire 
   :-----------: | :---: 
-  "Pourquoi faire son devoir ?" | [Explication du sujet](./Devoir/Etat_reconnaitre_limites_puissance.md)
-  "Peut-on ignorer son devoir ?" | [Explication du sujet](./Devoir/but_etat_limiter_violence.md) 
-   "Qu’avons-nous à gagner à faire notre devoir ?" | [Explication du sujet](./Devoir/pourquoi_respecter_autorite_etat.md)
-  "Qui peut me dire ce que je dois faire ?" | [Explication du sujet](./Devoir/Etat_ennemi_individu.md)
-  "Suffit-il de faire son devoir ?" | [Explication du sujet](./Devoir/Etat_mal_necessaire.md)
-  "Peut-on accomplir son devoir sans réfléchir ?" | [Explication du sujet](./Devoir/que_devons_nous_a_l_etat.md)
-  "Que risque-t-on à oublier ses devoirs ?" | [Explication du sujet](./Devoir/fonction_etat_nous_proteger.md)
-  "Qu’avons-nous à gagner à faire notre devoir ?" | [Explication du sujet](./Devoir/force_fondement_etat.md)
-  "La poursuite de l’intérêt général exige-t-elle le sacrifice de l’intérêt particulier ?" | [Explication du sujet](./Devoir/doit_on_tout_attendre_de_l_etat.md)
-   "Agir par devoir est-ce agir contre son intérêt ?" | [Explication du sujet](./Devoir/au_nom_de_quoi_opposer_etat.md)
+  "Pourquoi faire son devoir ?" | [Explication du sujet](./Devoir/pourquoi_devoir.md)
+  "Peut-on ignorer son devoir ?" | [Explication du sujet](./Devoir/ignorer_devoir.md) 
+   "Qu’avons-nous à gagner à faire notre devoir ?" | [Explication du sujet](./Devoir/que_gagner_devoir.md)
+  "Qui peut me dire ce que je dois faire ?" | [Explication du sujet](./Devoir/qui_me_dire_devoir.md)
+  "Suffit-il de faire son devoir ?" | [Explication du sujet](./Devoir/suffit_devoir.md)
+  "Peut-on accomplir son devoir sans réfléchir ?" | [Explication du sujet](./Devoir/devoir_sans_reflechir.md)
+  "Que risque-t-on à oublier ses devoirs ?" | [Explication du sujet](./Devoir/oublier_devoir.md)
+  "Peut-on faire plus que son devoir ?" | [Explication du sujet](./Devoir/Faire_plus_devoir.md)
+  "La poursuite de l’intérêt général exige-t-elle le sacrifice de l’intérêt particulier ?" | [Explication du sujet](./Devoir/interet_general_particulier.md)
+   "Agir par devoir est-ce agir contre son intérêt ?" | [Explication du sujet](./Devoir/agir_devoir_contre_interet.md)
 </details>
 
 <details>
