@@ -1,7 +1,5 @@
 ## PhiloBac-Boost - Sujets de Baccalauréat Commentés
 
-[<img src="./image10b.jpg" width="1200"/>](image10b.jpg)
-
 Le Bac Philo approche et vous n'avez pas (ou peu) révisé vos notions ? 
 
 [<img src="./harold.jpg" width="80"/>](harold.jpg)
