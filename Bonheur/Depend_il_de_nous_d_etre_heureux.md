@@ -1,54 +1,61 @@
 1. **Explication du sujet** :
 
-Ce sujet interroge sur notre capacité à influencer ou à diriger notre propre bonheur. Il questionne le rôle de la volonté individuelle dans notre capacité à être heureux, ainsi que la mesure dans laquelle notre bonheur est déterminé par des facteurs indépendants de notre contrôle.
+Le sujet "Dépend-il de nous d’être heureux ?" soulève plusieurs questions liées à la notion de bonheur, de liberté et de dépendance. Il nous invite à réfléchir sur la nature du bonheur et sur la mesure dans laquelle il est possible pour nous de le contrôler.
 
-> - Exemple 1 : Si on choisit volontairement de participer à des activités qui nous rendent heureux, alors on pourrait dire que cela dépend de nous d'être heureux. 
-> - Exemple 2 : Certaines personnes naissent avec des prédispositions génétiques pour la dépression ou d'autres problèmes de santé mentale qui rendent plus difficile pour elles de ressentir du bonheur. On pourrait les voir comme des contre-exemples à l'idée que ça dépend de nous d'être heureux.
-> - Exemple 3: Les conditions socio-économiques comme la pauvreté peuvent rendre difficile le sentiment de bonheur.
-> - Exemple 4 : Le bonheur pourrait être associé à une vie morallement bonne, selon des philosophes comme Aristote. Ainsi, cela dépendrait de nous et de la manière dont nous vivons notre vie d'être heureux.
+> - Exemple 1 : Pour illustrer cette question, prenons l'exemple d'une personne qui travaille dur pour obtenir de bonnes notes. Malgré ses efforts, elle ne réussit pas et ne se sent pas heureuse. Est-ce que le bonheur dépendait vraiment d'elle dans ce cas ?
+> - Exemple 2 : Pensez à une personne qui vit dans des conditions de pauvreté mais qui se sent satisfaite et heureuse de sa vie. Est-ce que c'est parce qu'elle a choisi d'être heureuse malgré les circonstances ?
+> - Exemple 3 : Imaginons une personne ayant tout pour être heureuse selon les normes sociétales (richesse, santé, amour), mais qui se sent malheureuse. Son bonheur dépendait-il d'elle ?
+> - Exemple 4 : Citons enfin l'exemple d'un individu qui trouve du bonheur dans la pratique régulière de la méditation. Il pourrait arguer que son bonheur dépend bien de lui puisqu'il résulte d'une pratique qu'il a choisie et qu'il maîtrise.
 
-La question du sujet revient donc à se demander si nous avons un certain contrôle sur notre bonheur ou si ce dernier est entièrement à la merci de facteurs indépendants de notre volonté.
+En conclusion partielle, on peut dire que le sujet nous demande de questionner la notion habituelle du bonheur et de reconsidérer l'idée qu'il serait toujours en notre pouvoir de l'atteindre.
 
 2. **Du sujet à la problématique** :
 
-Le sujet porte sur deux termes principaux : "Dépend" et "Heureux". Le terme "dépend" renvoie à l'idée de contrôle, de volonté propre et d'autonomie. Le terme "heureux" ramène à la notion de bonheur qui est complexe car subjective, relative et qui varie d'une personne à une autre, voire au cours de la vie d'une même personne.
-
-La question implicite en jeu ici est de savoir si nous avons un contrôle sur notre propre bonheur, ou plus spécifiquement, si nous avons le pouvoir de nous déterminer comme étant heureux ou non.
+Pour passer du sujet à la problématique, il est nécessaire d'analyser les principaux termes du sujet. Ici, les termes clés sont "bonheur", "dépendre" et "nous". On peut se demander ce que signifie réellement le bonheur et si c'est quelque chose de subjectif ou d'universel. En outre, la question de savoir si le bonheur dépend de notre volonté ou de facteurs externes est également cruciale. Enfin, le terme "nous" nous invite à réfléchir sur l'individu et la société dans leur recherche respective du bonheur.
 
 3. **La problématique** :
 
-La problématique pourrait être formulée comme suit : Dans quelle mesure détenons-nous le pouvoir de déterminer notre propre bonheur ?
+La problématique que je propose est donc : Dans quelle mesure l'individu a-t-il le pouvoir de contrôler son propre bonheur et quelle part est laissée aux facteurs externes ?
 
 4. **Introduction rédigée**: 
 
-Dans la quête universelle de l'humanité pour le bonheur, une question fondamentale émerge : dépend-il de nous d'être heureux ? Cette question nous demande d'examiner le rôle que joue notre volonté individuelle dans notre capacité à être heureux et soulève des enjeux concernant l'autonomie humaine, la volonté et le destin. Alors que certains arguent que le bonheur est une décision personnelle, d'autres soulignent les facteurs extérieurs à notre contrôle qui l'influencent. Cette dissertation abordera donc la problématique suivante : Dans quelle mesure détenons-nous le pouvoir de déterminer notre propre bonheur ?
+Le sujet proposé, "Dépend-il de nous d’être heureux ?", nous invite à explorer la nature du bonheur et de notre relation avec lui. Souvent considéré comme une quête universelle, le bonheur est aussi diversement défini selon les individus et les cultures. Pour certains, il est intrinsèquement lié à la réalisation de soi, à l'amour, au succès professionnel ou financier. Pour d'autres, il est une question de contentement, de serenité ou de paix intérieure. Mais dans quelle mesure avons-nous la maîtrise de notre bonheur ? Est-il le fruit de notre volonté ou plutôt le produit de circonstances qui nous dépassent ? C'est à ces interrogations que nous allons tenter de répondre.
 
 5. **Plan détaillé**:
 
-* **I. Idée du bonheur comme décision personnelle**
+* **I. L'idée que le bonheur dépend de nous**
 
-    1. Le bonheur comme état d'esprit
-         > - Exemple : Le pouvoir de la pensée positive : voir le verre à moitié plein plutôt qu'à moitié vide.
+    1. Le bonheur est une quête personnelle
+          > - Exemple : L'individu se fixant des objectifs à atteindre pour réaliser son bonheur.
     
-    2.  Le bonheur comme résultat d'actions volontaires
-         > - Exemple : Des activités qui nous rendent heureux, comme des passe-temps ou passer du temps avec des êtres chers.
+    2. L'influence de nos choix et de nos actions sur notre bonheur
+          > - Exemple : Le cas d'une personne qui choisit une carrière qui lui plaît, plutôt que celle financièrement lucrative.
 
-* **II. Facteurs extérieurs influençant le bonheur**
+    3. Le rôle de notre perception et de notre attitude face à la vie
+          > - Exemple : L'importance de la gratitude et de l'optimisme dans la perception du bonheur.
 
-    1. Influence des conditions socio-économiques sur le bonheur
-         > - Exemple : Impact de la pauvreté sur le sentiment de bien-être et le bonheur.
+* **II. Les limites de la maîtrise du bonheur**
+
+    1. L'incertitude et l'impredictibilité de la vie
+          > - Exemple : l'impact d'événements imprévus (accidents, crises) sur notre bonheur.
     
-    2. L'influence de la génétique et de la biologie sur le bonheur
-         > - Exemple : Prédispositions génétiques à la dépression ou à d'autres troubles mentaux.
+    2. Le rôle des conditions socio-économiques et culturelles
+          > - Exemple : les contraintes sociales et économiques qui limitent notre liberté d'action.
 
-* **III. L'équilibre entre le contrôle individuel et les déterminants externe**
+    3. L'influence de notre entourage et de notre environnement
+          > - Exemple : l'influence des relations interpersonnelles sur notre bonheur.
 
-    1. La volonté individuelle ne peut à elle seule déterminer le bonheur
-         > - Exemple : Les limites du contrôle individuel et l'influence de facteurs extérieurs.
+* **III. La recherche d'un équilibre**
+
+    1. La nécessité d'un certain lacher prise
+          > - Exemple : la sagesse stoïcienne qui prône l'acceptation des choses telles qu'elles sont.
     
-    2.  Le bonheur comme un mélange d'autodétermination et de facteurs extérieurs
-         > - Exemple : Un individu peut choisir de chercher le bonheur malgré les obstacles externes, maximisant son bonheur dans des limites données.
+    2. Le bonheur comme équilibre entre nos aspirations et la réalité
+          > - Exemple : La philosophie de l'Epicurisme qui recommande la modération des désirs.
+
+    3. L'importance de l'épanouissement personnel et de la quête de sens
+          > - Exemple : La psychologie positive qui valorise le rôle de l'épanouissement personnel et de la quête de sens dans le bonheur.
 
 6. **Conclusion rédigée**: 
 
-En somme, le débat autour de la question "dépend-il de nous d'être heureux?" n'est pas facile à résoudre. Bien qu'il semblerait que nous ayons un certain contrôle sur notre bonheur à travers nos actions et notre perspective, il faut aussi tenir compte des influences extérieures. Le bonheur semble donc être le résultat d'une interaction dynamique entre nos efforts personnels et les circonstances extérieures, voire même des prédispositions génétiques. Il apparaît donc que le bonheur est influencé par une multitude de facteurs, certains sous notre contrôle et d'autres non, ce qui souligne l'importance de la recherche d'un équilibre entre ces forces dans notre quête du bonheur.
+En conclusion, le rapport entre l'individu et son bonheur est complexe et multifacettes. Il n'est ni totalement libre, ni totalement déterminé. Si notre perception, nos choix et nos actions peuvent influencer notre bonheur, ils ne sont pas les seuls facteurs en jeu. Les aléas de la vie, le contexte socio-économique et culturel, la qualité de nos relations interpersonnelles, sont autant de variables qui comptent aussi. Finalement, atteindre l'équilibre entre nos aspirations et la réalité semble être le véritable secret du bonheur. Il est donc nécessaire, non pas de chercher à contrôler le bonheur, mais de cultiver un rapport équilibré avec lui, où acceptation et quête de sens prennent une place centrale.
