@@ -22,11 +22,11 @@ Note: Tous ces textes ont été générés automatiquement par GPT4. A prendre a
   - "La conscience peut-elle être un fardeau ?" - [Explication du sujet](./Conscience/La_conscience_peut_elle_etre_un_fardeau.md)   
   - "La conscience peut-elle être un obstacle pour l'action ?" - [Explication du sujet](./Conscience/La_conscience_peut_elle_etre_un_obstacle_pour_l_action.md)
   - "Peut-on échapper aux exigences de la conscience ?" - [Explication du sujet](./Conscience/Peut_on_echapper_aux_exigences_de_la_conscience.md)   
-  - "Peut-on parvenir à une complère conscience de soi ?" - [Explication du sujet](./Conscience/Peut_on_parvenir_a_une_complète_conscience_de_soi.md)   
-  - "Etre conscient est-ce savoir ?" - [Explication du sujet](./Conscience/Etre_conscient_est_ce_savoir.md)   
-  - "Etre conscient est-ce savoir ?" - [Explication du sujet](./Conscience/Etre_conscient_est_ce_savoir.md)   
-  - "Etre conscient est-ce savoir ?" - [Explication du sujet](./Conscience/Etre_conscient_est_ce_savoir.md)   
-  - "Etre conscient est-ce savoir ?" - [Explication du sujet](./Conscience/Etre_conscient_est_ce_savoir.md)   
+  - "Peut-on parvenir à une complete conscience de soi ?" - [Explication du sujet](./Conscience/Peut_on_parvenir_a_une_complete_conscience_de_soi.md)   
+  - "Conscience/Sommes-nous conscients ou avons-nous à nous rendre conscients ?" - [Explication du sujet](./Conscience/Sommes_nous_conscients_ou_avons_nous_a_nous_rendre_conscients.md)   
+  - "Suis-je le mieux placé pour me connaître ?" - [Explication du sujet](./Conscience/Suis_je_le_mieux_place_pour_me_connaitre.md)   
+  - "Faut_il_se_méfier_de_sa_conscience ?" - [Explication du sujet](./Conscience/faut_il_se_mefier_de_sa_conscience.md)   
+  - "La_conscience de soi est elle une connaissance.md ?" - [Explication du sujet](./Conscience/la_conscience_de_soi_est_elle_une_connaissance.md)   
 
 </details>
 
