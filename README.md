@@ -17,7 +17,16 @@ Note: Tous ces textes ont été générés automatiquement par GPT4. A prendre a
 <details>
   <summary>La Conscience</summary>
 
-  - "La perception est-elle source de connaissance ?" - [Explication du sujet](./Etre_conscient_est_ce_savoir.pdf)   
+  - "Etre conscient est-ce savoir ?" - [Explication du sujet](./Conscience/Etre_conscient_est_ce_savoir.md)   
+  - "La conscience n'est-elle tournée que vers elle même ?" - [Explication du sujet](./Conscience/La_conscience_n_est_elle_tournee_que_vers_elle_meme.md)   
+  - "La conscience peut-elle être un fardeau ?" - [Explication du sujet](./Conscience/La_conscience_peut_elle_etre_un_fardeau.md)   
+  - "La conscience peut-elle être un obstacle pour l'action ?" - [Explication du sujet](./Conscience/La_conscience_peut_elle_etre_un_obstacle_pour_l_action.md)
+  - "Peut-on échapper aux exigences de la conscience ?" - [Explication du sujet](./Conscience/Peut_on_echapper_aux_exigences_de_la_conscience.md)   
+  - "Peut-on parvenir à une complère conscience de soi ?" - [Explication du sujet](./Conscience/Peut_on_parvenir_a_une_complète_conscience_de_soi.md)   
+  - "Etre conscient est-ce savoir ?" - [Explication du sujet](./Conscience/Etre_conscient_est_ce_savoir.md)   
+  - "Etre conscient est-ce savoir ?" - [Explication du sujet](./Conscience/Etre_conscient_est_ce_savoir.md)   
+  - "Etre conscient est-ce savoir ?" - [Explication du sujet](./Conscience/Etre_conscient_est_ce_savoir.md)   
+  - "Etre conscient est-ce savoir ?" - [Explication du sujet](./Conscience/Etre_conscient_est_ce_savoir.md)   
 
 </details>
 
