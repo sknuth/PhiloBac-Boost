@@ -1,69 +1,67 @@
 1. **Explication du sujet** :
 
-Le sujet "Être conscient est-ce savoir ?" questionne la relation entre la conscience et la connaissance. Plus précisément, le sujet débatt de la façon dont ces deux concepts interagissent et s'affectent mutuellement. L’« être conscient » signifie que l’on est capable de percevoir, de comprendre et d’interagir avec son environnement. Le « savoir » en revanche, se réfère à la compréhension et à la connaissance accumulées à partir de notre interaction avec le monde.
+Le sujet questionne la relation entre la conscience et le savoir. Il s'agit d'établir si la conscience de soi garantit une certaine connaissance ou non.
 
-> - Example 1 : Une personne qui a une conscience de soi sait qu'elle est un individu unique et réalisera des actions qui soulignent cette unicité.
-> - Example 2 : Un étudiant qui est conscient qu'il a un examen demain peut à partir de cette conscience acquérir le savoir nécessaire en se préparant pour l'examen.
-> - Example 3: Être conscient des dangers de la conduite en état d'ébriété permet de développer la connaissance sur les conséquences possibles.
-> - Example 4 : Conscient de la réalité du réchauffement climatique, un individu peut d'acquérir des connaissances pour mener une vie plus écologique.
+> - Exemple 1 : Descartes, dans ses "Méditations Métaphysiques", pose la célèbre expression "cogito ergo sum" : "Je pense donc je suis". La conscience que Descartes a de sa pensée lui offre une certitude indubitable sur son existence.
+> - Exemple 2 : Leibniz, avec sa théorie du "monade", soutient que chaque monade a une perception unique du monde, mais ces perceptions peuvent être plus ou moins claires et distinctes. La conscience serait donc une question de degré de clarté de nos connaissances.
+> - Exemple 3: Nietzsche met en avant l'idée que la conscience peut nous tromper, en créant des illusions. La conscience n'est pas une garantie de vérité.
+> - Exemple 4: Sartre, dans "L'être et le néant", affirme que la conscience n'est pas un savoir car elle est toujours conscience de quelque chose. Elle ne peut pas se saisir elle-même, elle est donc toujours en dehors d'elle-même.
 
-Alors, bien que la conscience et le savoir semblent être deux éléments distincts, ils ont néanmoins tendance à se chevaucher dans certaines situations.
+Ainsi, le sujet interroge si la conscience de soi peut vraiment être équivalente à une connaissance certaine et vraie.
 
 2. **Du sujet à la problématique** :
 
-Le sujet est articulé autour de deux notions principales : l'« être conscient » et le « savoir ». Comprendre chaque notion séparément peut nous aider à voir comment elles peuvent interagir.
+Le sujet oppose deux notions : "conscience" et "savoir". 
 
-Le mot "conscient" signifie être au courant, être informé de quelque chose. C'est un état de conscience qui peut être interne (conscience de soi) ou externe (conscience des autres et du monde).
+- La "conscience" est généralement définie comme la perception que l'individu a de lui-même et de son environnement. Cette notion est liée au "Je pense" cartésien et renvoie à la philosophie de la subjectivité.
+- Le "savoir" est une connaissance acquise, vérifiée, qui repose sur des faits indéniables. Il se rapproche de l'"idée claire et distincte" de Descartes et du concept de vérité.
 
-Le mot "savoir" se rapporte à des informations, des faits, des idées ou des descriptions que nous avons appris et compris. Il implique une compréhension rationnelle du monde.
-
-La question implicite soulevée par ce sujet est : La conscience est-elle une condition préalable à l'acquisition du savoir ?
+Il s'agit donc de s'interroger sur la capacité de la conscience à produire un savoir, validé et certain.
 
 3. **La problématique** :
 
-La problématique pourrait être formulée comme suit : Dans quelle mesure notre conscience influence-t-elle notre capacité à acquérir et à utiliser des connaissances ?
+La problématique du sujet pourrait être : "La conscience de soi est-elle suffisante pour atteindre un savoir authentique et vérifié ?"
 
 4. **Introduction rédigée**: 
 
-Le sujet de la dissertation qui nous est présenté aujourd’hui porte sur une interrogation très profonde et qui révèle combien ces termes, « être conscient » et « savoir » pourraient être corrélés ou différés. En outre, aborder cette question c’est s’interroger sur les rapports qu’entretiennent la conscience et l’acquisition du savoir, et c’est chercher à comprendre si la conscience est une condition préalable pour acquérir le savoir, ou si le savoir précède la conscience. Pour cela, nous tenterons de démontrer premièrement que la conscience est nécessaire pour l'acquisition du savoir, ensuite, nous défendrons l'idée que la conscience n'est pas toujours un pré-requis au savoir, et enfin, nous tenterons de dégager une vision plus équilibrée de cette relation.
+Dans notre existence quotidienne, nous percevons instinctivement un lien entre notre conscience de nous-mêmes et notre connaissance du monde. Nous avons tendance à penser que le simple fait d'être conscient nous donne une forme de savoir. Dans le langage courant, la conscience de soi est souvent confuse avec la connaissance de soi. Le philosophe René Descartes, par exemple, a lié ces deux notions dans son affirmation célèbre : "Je pense donc je suis." Pourtant, on peut se demander si cette équation est vraiment exacte. La conscience nous donne-t-elle vraiment un savoir ? Ou n'est-ce qu'une illusion, une interprétation erronée de notre propre existence ?  C'est le défi que nous avons à relever dans cette dissertation. 
 
 5. **Plan détaillé**:
 
-* **I. La conscience est nécessaire pour l'acquisition du savoir.**
+* **I. La conscience comme source de connaissance authentique**
 
-    1. L'importance de la conscience en tant que pré-requis au savoir.
-          > - Exemple : La prise de conscience des dangers associés à la consommation d'alcool et de drogues peut motiver une personne à acquérir des connaissances sur la santé et le bien-être.
+    1. L'argument du "cogito" cartésien. 
+          > - Exemple : Descartes affirme que la prise de conscience de sa pensée lui offre un savoir indénombrable sur son existence ("Je pense donc je suis").
     
-    2. La conscience de soi comme base pour apprendre et comprendre.
-          > - Exemple : Connaître ses propres forces et faiblesses aide à acquérir de nouvelles compétences.
+    2. La connaissance de soi nécessaire à la prise de décisions éthiques.
+          > - Exemple : Socrate soutient que "Connais-toi toi-même" est le principe fondamental de la philosophie et de la moralité.
           
-    3. L'apprentissage par la conscience de l'environnement.
-          > - Exemple : Conscient de la réalité du réchauffement climatique, un individu acquiert des connaissances pour mener une vie plus écologique.
+    3. La conscience comme accès privilégié à nos états internes.
+          > - Exemple : Selon Locke, notre conscience de nous-mêmes nous permet de savoir avec certitude nos propres pensées et sentiments.
 
-* **II. La conscience n'est pas toujours un pré-requis au savoir.**
+* **II. Les limites de la conscience en tant que source de savoir**
 
-    1. L'accumulation involontaire de connaissances sans pleine conscience.
-          > - Exemple : Apprendre une langue en vivant dans un pays où elle est parlée sans prendre conscience de cet apprentissage.
-          
-    2. Acquisition de connaissances inconscientes.
-          > - Exemple : Certaines formes d'apprentissage, comme l'apprentissage par imitation chez les enfants.
-          
-    3. Acquisition de savoir sans pleine conscience de ses implications.
-          > - Exemple : Apprendre des faits sans comprendre leur importance ou leur contexte.
-
-* **III. Une vision équilibrée de la relation entre conscience et savoir.**
-
-    1. L'interaction bidirectionnelle entre conscience et savoir.
-          > - Exemple : La conscience aide à acquérir des connaissances, et les connaissances acquises peuvent à leur tour améliorer la conscience.
-
-    2.  L'importance du savoir pour augmenter la conscience.
-          > - Exemple : Un citoyen informé comprend mieux les enjeux de l'élection et a donc une conscience plus claire de ses responsabilités.
+    1. La conscience peut être trompeuse.
+          > - Exemple : Nietzsche argumente que la conscience peut nous donner une fausse image de nous-mêmes, en créant des illusions d'unité et de cohérence.
     
-    3.  L'idée d'une boucle de rétroaction positive entre savoir et conscience.
-          > - Exemple : Plus nous en connaissons sur un sujet, plus nous sommes susceptibles de nous en préoccuper et d'apprendre davantage à ce sujet.
+    2. La connaissance de soi est un processus sans fin, pas une réalité stable.
+          > - Exemple : Selon Sartre, la conscience est toujours en devenir, toujours tournée vers l'extérieur. Elle ne peut donc jamais se saisir pleinement.
+          
+    3. La conscience de soi peut nous empêcher de voir notre propre ignorance.
+          > - Exemple : Dans le mythe de la caverne, Platon montre que ceux qui croient savoir parce qu'ils sont conscients peuvent être aveugles à leur ignorance.
+          
+* **III. Vers une définition plus complexe de la relation entre conscience et savoir**
+
+    1. La conscience et le savoir sont interdépendants mais pas identiques.
+          > - Exemple : Selon Kant, la conscience de soi (apperception transcendantale) est à la base de tout savoir, mais elle n'est pas un savoir en elle-même.
+          
+    2. La conscience peut être un outil pour approfondir notre savoir.
+          > - Exemple : L'éveil de Bouddha passe par une prise de conscience qui entraîne un savoir plus profond sur la réalité.
+    
+    3. Le savoir véritable nécessite une prise de conscience mais celle-ci doit être accompagnée d'un effort critique et rationnel.
+          > - Exemple : La dialectique hégélienne implique une conscience de soi qui se développe vers une connaissance de soi plus complexe par le biais de la rationalité.
 
 
 6. **Conclusion rédigée**: 
 
-En conclusion, si dans certains cas la conscience est primordiale pour l’acquisition du savoir comme nous l’avons démontré dans la première partie, elle est toutefois dans d’autres situations occultée ou minimisée, et le savoir peut être acquis de manière involontaire comme souligné dans la deuxième partie. Enfin, nous avons vu que la relation entre conscience et savoir peut être envisagée de manière plus nuancée, ces deux concepts s’influençant mutuellement dans un processus continu d’amélioration personnelle. Pour en finir, nous pouvons donc soutenir que bien que la conscience et le savoir soient deux concepts différents, ils restent néanmoins inextricablement liés, l’un stimulant et enrichissant constamment l’autre dans un cycle perpétuel de croissance et d’amélioration.
-
+Le sujet s'interrogeait sur la relation entre la conscience et le savoir.  Nous avons vu que cette relation est à la fois étroite et complexe. La conscience, en tant que perception intime de nous-mêmes, nous offre un accès privilégié à nos propres pensées et sentiments. Cet accès introspectif semble donc fournir un type de connaissance. Cependant, nous avons également vu que la conscience peut être trompeuse, et même nous conduire à une profonde ignorance de nous-mêmes. Au final, il semblerait que la conscience ne soit pas équivalente au savoir, mais plutôt qu'elle en soit le point de départ. Un véritable savoir nécessite non seulement une conscience de soi mais aussi une réflexion critique, une mise en question de nos convictions, et un effort permanent pour dépasser nos illusions et nos préjugés. Les philosophes ont toujours su cela : la philosophie n'est pas une question de savoirs acquis, mais un exercice constant de prise de conscience et de questionnement.
