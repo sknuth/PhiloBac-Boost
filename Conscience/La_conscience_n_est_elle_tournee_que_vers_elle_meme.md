@@ -1,67 +1,62 @@
 1. **Explication du sujet** :
+Le sujet de dissertation "La conscience n'est-elle tournée que vers elle-même ?" appelle à réfléchir sur la nature et les limitations de la conscience humaine. Autrement dit, s'interroge-t-elle uniquement sur elle-même ou est-elle capable d'étendre ses investigations à d'autres domaines ?
 
-Le sujet demande de réfléchir sur la nature de la conscience, ses orientations et ses dimensions. Il suggère une possible inclination de la conscience à être centrée sur elle-même, impliquant ainsi une certaine idée de l'introspection ou de l'égocentrisme. En examinant cette affirmation, la réflexion conduira à questionner l'existence possible d'autres orientations de la conscience, à explorer les dimensions internes et externes de la conscience.
+> - Exemple 1 : Dans "Les Méditations métaphysiques", Descartes aborde le concept de solipsisme, qui est la croyance que seule notre propre conscience peut être connue avec certitude. Ceci semble conforter l'idée que la conscience ne peut être tournée que vers elle-même.
+> - Exemple 2 : Nietzsche, dans "Ainsi parlait Zarathoustra", conteste cette position en avançant que la conscience est non seulement capable de s'engager avec le monde extérieur, mais qu'elle est également moulée et influencée par le monde extérieur.
+> - Exemple 3: En revanche, Spinoza dans son "Éthique" affirme que bien que la conscience puisse interagir avec des facteurs externes, son essence même consiste à s'engager principalement avec elle-même. 
+> - Exemple 4 : Enfin, la philosophie orientale telle qu'elle est exposée par Nagarjuna suggère que la conscience n'est pas confinée à elle-même mais would être considérée comme une partie intégrante de la réalité universelle. 
 
-> - Example 1 : Une personne méditant est un exemple de conscience tournée vers elle-même, atteignant une introspection profonde.
-> - Example 2 : Un artiste peignant une oeuvre est à la fois conscient de son processus créatif interne (conscience de soi) et de la manière dont cela sera perçu par le public (conscience de l'autre).
-> - Example 3: Une mère prenant soin de son enfant affiche une conscience tournée vers l'autre.
-> - Example 4 : Une personne prenant des décisions éthiques montre une conscience tournée vers les valeurs universelles, dépassant l'individu.
-
-Donc, le sujet implique à la fois l'auto-réflexivité et l'ouverture à l'extérieur de la conscience.
+Il semble donc que l'affirmation "la conscience n'est tournée que vers elle-même" puisse être débattue de différentes manières.
 
 2. **Du sujet à la problématique** :
 
-Le sujet comporte deux termes principaux à analyser : "conscience" et "tournée vers elle-même".
+Le sujet demande si la conscience est exclusivement focalisée sur elle-même. Afin de composer une problématique, il est nécessaire d'analyser les principaux termes du sujet.
 
-- "Conscience" : D'après Sartre, la conscience est toujours conscience de quelque chose. Elle peut être tournée vers elle-même (conscience "en soi") ou vers le monde extérieur (conscience "pour soi").
+- La "conscience" est généralement définie comme la perception que nous avons de nous-mêmes et de notre environnement. C'est un concept complexe à saisir car il recoupe plusieurs notions à la fois psychologiques, philosophiques et neuroscientifiques.
 
-- "Tournée vers elle-même" : L'expression implique une introspection ou une forme de solipsisme. Avoir conscience de soi n'est cependant pas suffisant pour mener une vie riche et complète.
+- "Être tournée vers soi-même" suggère une introspection et une autoréflexivité, une focalisation sur l'auto-perception des processus de pensée.
 
-En analysant ces deux termes, la question implicite qui se dégage du sujet est : La conscience est-elle uniquement auto-réfléchissante ou embrasse-t-elle aussi le monde extérieur ?
+Ces analyses permettent de dégager la question implicite qui se dessine : la conscience est-elle limitée à l'autoréflexivité et à l'introspection, ou peut-elle englober autre chose que l'individu lui-même ?
 
 3. **La problématique** :
 
-La problématique est : La conscience est-elle purement introspective ou existe-t-il d'autres dimensions de la conscience qui s'étendent au-delà de l'individu ?
+La problématique peut donc être formulée ainsi : Pouvons-nous affirmer que la conscience est exclusivement introspective et autocentrée ou doit-on admettre qu’elle possède une capacité d’extension vers ce qui est extérieur à l'individu ?
 
 4. **Introduction rédigée**: 
 
-La question de la nature et du rôle de la conscience a été l'objet de nombreuses interrogations philosophiques, la présente dissertation visant à explorer l'idée selon laquelle la conscience serait uniquement tournée vers elle-même. Autrement dit, la conscience est-elle essentiellement introspective, centrée sur soi, ou existe-t-il d'autres dimensions de la conscience qui s'étendent au-delà de la simple introspection ? À première vue, la conscience semble être intrinsèquement liée à l'individu qui l'éprouve, suggérant ainsi qu'elle est principalement engagée dans une exploration de l'intérieur. Cependant, une analyse plus approfondie révèle une complexité bien plus grande. La conscience n'est-elle pas aussi tournée vers le monde extérieur, vers autrui, vers l'engagement éthique ? Par conséquent, cette dissertation se propose de démontrer que, loin d'être uniquement introspective, la conscience embrasse des dimensions multiples et variées.
+La conscience, généralement définie comme la perception que l’on a de soi-même et de son environnement, a toujours été un champ d'intérêt majeur en philosophie. L'importance de la conscience dans notre expérience subjective de l’univers est incontestable, mais tout le débat est de savoir si cette conscience est exclusivement centrée sur le soi ou si elle peut engager des entités autres que le soi. En d'autres termes, est-ce que notre conscience est uniquement tournée vers elle-même ou peut-on prétendre à une ouverture à l’extrinsèque? Certaines philosophies, comme celle de Descartes, donnent une place prépondérante au cogito, à l’introspection, tandis que d'autres, comme celle de Nietzsche, mettent l'accent sur l'interaction de la conscience avec le monde extérieur. Le présent questionnement vise à naviguer entre ces deux positions théoriques divergentes afin d'éclairer la nature de notre expérience consciente.
 
-5. **Plan détaillé**:
+...
 
-* **I. La conscience comme introspection**
+**5. Plan détaillé**:
 
-    1. Argument : La conscience permet une connaissance intime de soi.
-          > - Exemple : La méditation.
-    
-    2. Argument : La conscience est le siège de l'autoréflexivité.
-          > - Exemple : Le sentiment de culpabilité ou de fierté.
-          
-    3. Argument : La conscience comme introspection peut conduire à un repli sur soi.
-          > - Exemple : Le solipsisme de Descartes.
+* **I. La conscience est exclusivement tournée vers elle-même**
 
-* **II. La conscience tournée vers le monde**
+    1. La conscience comme introspection
+          > - Exemple : Descartes et le cogito
+    2.  La philosophie du solipsisme
+          > - Exemple : Berkeley et l'idéalisme subjectif
+    3.  La conscience comme auto-perception
+          > - Exemple : Husserl et la phénoménologie
 
-    1. Argument : La conscience nous relie au monde extérieur.
-          > - Exemple : La perception sensorielle.
-    
-    2. Argument : La conscience se manifeste dans notre interaction avec autrui.
-          > - Exemple : L'empathie.
-          
-    3. Argument : La conscience est nécessaire pour appréhender le monde de manière significative.
-          > - Exemple : L'apprentissage et la compréhension.
+* **II. La conscience peut être tournée vers l’extérieur**
 
-* **III. La conscience comme éthique**
+    1. La conscience comme interaction avec le monde extérieur
+          > - Exemple : Nietzsche et sa critique de l'égocentrisme de la conscience
+    2.  La conscience et l'intersubjectivité
+          > - Exemple: Sartre et l’autre comme miroir de soi
+    3.  La conscience comme partie intégrante de la réalité universelle
+          > - Exemple : Nagarjuna et le concept de non-dualité
 
-    1. Argument : La conscience est liée à notre sens du bien et du mal.
-          > - Exemple : Les dilemmes moraux.
-    
-    2. Argument : La conscience guide notre action vers des valeurs universelles.
-          > - Exemple : Le militantisme social ou environnemental.
-          
-    3. Argument : La conscience permet l'autonomie morale.
-          > - Exemple : La désobéissance civile fondée sur des convictions morales.
+* **III. Quel équilibre entre introspection et attention à l'extérieur ?**
+
+    1. L'équilibre nécessaire entre introspection et extrospection
+          > - Exemple : Kant et son compromis entre empirisme et rationalisme
+    2.  Les limites de l'introspection
+          > - Exemple: Freud et l'inconscient 
+    3.  Vers une conscience élargie et inclusive
+          > - Exemple: Merleau-Ponty et la perception incarnée
 
 6. **Conclusion rédigée**: 
 
-En conclusion, la question de savoir si la conscience est uniquement tournée vers elle-même a permis d'explorer les dimensions multiples de la conscience. Si la conscience permet une introspection et une connaissance de soi, elle ne se limite pas à cette auto-réflexivité. La conscience s'étend au monde extérieur, nous reliant à autrui et à l'environnement. Par ailleurs, elle est liée à notre sens du bien et du mal, nous guidant dans nos actions éthiques. Cette réflexion sur la conscience a donc démontré que, loin d'être une entité isolée, la conscience est une interface dynamique entre le soi, autrui, le monde et les valeurs universelles. Cela nous invite à reconnaître la richesse de la conscience humaine et son rôle indispensable dans notre vie.
+En conclusion, la question de savoir si la conscience est exclusivement tournée vers elle-même est complexe. Si certains philosophes comme Descartes, Berkeley ou Husserl ont considéré la conscience comme essentiellement introspective, cette position a été contestée par des philosophes comme Nietzsche, Sartre ou Nagarjuna qui ont argué que la conscience était en interaction avec le monde extérieur ou même une partie intégrante de l’univers. La philosophie de Kant et le concept d'inconscient de Freud suggèrent également que les deux approches pourraient être nécessaires pour une compréhension complète de la conscience. En fin de compte, la conscience apparaît comme un processus dynamique naviguant sans cesse entre introspection et extrospection, entre le soi et le monde qui l’entoure. Telle est sans doute la richesse d’une conscience véritablement ouverte à la complexité du réel.
