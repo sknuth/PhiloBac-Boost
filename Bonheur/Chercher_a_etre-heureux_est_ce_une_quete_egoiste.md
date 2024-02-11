@@ -1,61 +1,61 @@
 1. **Explication du sujet** :
 
-Ce sujet nous invite à explorer la démarche de la recherche du bonheur. En posant la question de savoir si cette quête est égoïste, on est amené à s'interroger sur la nature du bonheur et du lien entre bonheur et égoïsme. 
+Ce sujet interroge sur notre quête personnelle du bonheur et si cette recherche est égoïste. Le terme "chercher" renvoie à une attitude active, une quête consciente, durant laquelle on vise un objectif précis. "Être heureux" suppose un sentiment de satisfaction, de plénitude. L'égoïsme, quant à lui, correspond à une prédominance donnée aux intérêts personnels, souvent au détriment des autres. 
 
->- Exemple 1 : Pour une personne qui cherche le bonheur en amassant une grande fortune pour elle-même, cette quête pourrait être perçue comme égoïste.
->- Exemple 2 : Pour une autre personne, le bonheur pourrait venir du fait d'aider les autres, donc dans ce cas, la recherche du bonheur n'apparait pas comme égoïste.
->- Exemple 3 : Une autre personne pourrait trouver le bonheur dans la solitude et la méditation, cette quête pourrait être perçue comme égoïste car elle la coupe du reste du monde.
->- Exemple 4 : Pour finir, une personne pourrait chercher le bonheur dans la réalisation de soi par le travail, cette quête n'est ni totalement altruiste ni totalement égoïste.
+> - Exemple 1 : Si un individu décide de quitter son emploi pour voyager et trouver son bonheur, cela peut sembler égoïste à ses collègues qui doivent prendre le dessus.
+> - Exemple 2 : Un parent peut placer son bonheur dans le bien-être de ses enfants. Est-ce égoïste de sa part de privilégier ce qui lui confère du bonheur?
+> - Exemple 3: Un artiste qui recherche la perfection et le bonheur dans son art peut négliger ses relations. Cela le rend-il égoïste?
+> - Exemple 4 : Un philanthrope peut trouver du bonheur en aidant les autres. Est-ce égoïste si cela lui fait du bien à lui aussi?
 
-Il nous faut donc examiner différentes conceptions du bonheur et de l'égoïsme pour une meilleure compréhension du sujet.
+Il est donc nécessaire de s'interroger sur le lien entre bonheur et égoisme.
 
 2. **Du sujet à la problématique** :
 
-Le sujet questionne la relation entre la quête du bonheur et l'égoïsme. Le bonheur est généralement considéré comme une aspiration légitime, mais le qualifier d'égoïste suggère une évaluation négative. Il s'agit donc de se demander si la quête du bonheur est nécessairement égoïste, et si oui, si l'égoïsme doit être nécessairement perçu comme négatif.
+La torsion possible de ce sujet réside dans l'exploration de l'intersection entre la quête de bonheur et l'égoisme. Le terme «égoïste» est généralement employé de manière négative pour qualifier quelqu'un qui privilégie ses intérêts personnels. Mais s'agit-il d'égoïsme si le bonheur recherché est également bénéfique aux autres?
 
 3. **La problématique** :
 
-La problématique pourrait être : En cherchant notre propre bonheur, sommes-nous nécessairement centrés sur nous-mêmes au détriment des autres ? 
+La problématique pourrait être: Chercher le bonheur est-il nécessairement une démarche égoïste ou peut-elle être compatible avec l'altruisme et le bien-être collectif?
 
 4. **Introduction rédigée**: 
 
-La quête du bonheur est universelle et semble être une aspiration intrinsèque de l'homme. Cependant, cette quête est souvent associée à l'égoïsme, car elle implique d'accorder la priorité à la réalisation de soi. Cette perspective pose la question de savoir si la recherche du bonheur est nécessairement de nature égoïste. Cette dissertation vise à explorer la nature complexe de la quête du bonheur et son lien possible avec l'égoïsme.
+Dans sa quête de comprendre ce qui rend la vie digne d'être vécue, l'homme cherche souvent le bonheur. Cette quête du bonheur est une idée largement discutée dans la philosophie, avec des perspectives différentes sur ce qui constitue véritablement le bonheur et comment l'atteindre. Toutefois, chercher à être heureux est souvent perçu comme une quête égoïste, car elle semble placer les intérêts personnels avant ceux des autres. Cette vision soulève d'importantes questions éthiques et philosophiques. Chercher le bonheur est-il nécessairement une démarche égoïste ou peut-elle être bénéfique pour les autres également? Cette dissertation explorera ces questions, en cherchant à discerner les liens entre la quête du bonheur et l'égoïsme.
 
 **5. Plan détaillé**:
 
-* **I. L'égoïsme inhérent à la quête du bonheur**
+* **I. La quête du bonheur interprétée comme un acte d'égoïsme**
 
-    1. Le bonheur comme satisfaction des désirs
-          > - Exemple : La personne qui amasse une fortune pour elle-même.
+    1. Le bonheur comme objectif ultime
+          > - Exemple : Épicure et le plaisir personnel.
     
-    2. Le bonheur comme épanouissement personnel
-          > - Exemple : La personne qui trouve le bonheur dans la solitude et la méditation.
-          
-    3. L'égoïsme comme condition nécessaire au bonheur
-          > - Exemple : L'individu doit d'abord se soucier de son propre bien-être pour être capable d'apporter du bonheur aux autres.
+    2.  Le risque de l'égoïsme
+          > - Exemple : Le personnage de Raskolnikov dans "Crime et Châtiment" de Dostoïevski.
 
-* **II. La quête du bonheur comme une démarche altruiste**
+    3.  Conséquences de l'égoïsme
+          > - Exemple : Les dix commandements de la Bible insistants sur l'altruisme.
 
-    1. Le bonheur comme bien commun
-          > - Exemple : Les philosophies qui affirment que le bonheur réside dans le bien-être de la communauté et non seulement dans celui de l'individu (comme l'utilitarisme).
+* **II. La quête du bonheur comme acte altruiste**
+
+    1. Le bonheur intrinsèquement lié à l'altruisme
+          > - Exemple : Les enseignements bouddhistes sur le bonheur et la compassion.
     
-    2.  Le bonheur comme accomplissement en aidant autrui
-          > - Exemple : Une personne qui trouve du bonheur en aidant les autres.
-          
-    3.  L'égoïsme incompatible avec le véritable bonheur
-          > - Exemple : La conception stoïcienne du bonheur qui implique le détachement des désirs personnels.
+    2.  La joie partagée 
+          > - Exemple : La vie d'Oskar Schindler qui a trouvé du bonheur en sauvant des vies durant la Seconde Guerre Mondiale.
 
-* **III. Réconciliation de l'égoïsme et de l'altruisme dans la quête du bonheur**
+    3.  L'impact social positif de la quête du bonheur
+          > - Exemple : Le mouvement des droits civiques aux États-Unis, inspiré par la quête de l'égalité et de la justice, une forme de bonheur collectif.
 
-    1. La réalisation de soi comme combinaison d'égoïsme et d'altruisme
-          > - Exemple : La personne qui cherche le bonheur dans la réalisation de soi par le travail.
-    
-    2.  L'égoïsme et l'altruisme comme dimensions complémentaires du bonheur
-          > - Exemple : La reconnaissance que le bien-être personnel contribue au bien-être collectif, et vice versa.
-          
-    3.  L'équilibre entre l'égoïsme et l'altruisme comme condition du véritable bonheur
-          > - Exemple : Les philosophies qui affirment que l'égoïsme et l'altruisme ne sont pas mutuellement exclusifs, mais peuvent coexister harmonieusement.
+* **III. Equilibre entre égoïsme et altruisme dans la quête du bonheur**
 
-**6. Conclusion rédigée**: 
+    1. Nécessité d'un équilibre entre soi et les autres
+          > - Exemple : Les pratiques méditatives pour la pleine conscience.
 
-En conclusio, la dissertation a exploré la tension entre l'égoïsme et l'altruisme dans la quête du bonheur. Elle a démontré que le bonheur est un concept multidimensionnel qui ne peut pas être facilement classé comme étant soit égoïste, soit altruiste. Au lieu de cela, la quête du bonheur semble nécessiter une navigation complexe et parfois contradictoire entre ces deux pôles. Par conséquent, chercher à être heureux n'est pas nécessairement une quête égoïste, mais peut être une manifestation simultanée de préoccupation pour soi et pour les autres.
+    2.  Bonheur et bien-être collectif
+          > - Exemple : Les pays nordiques avec une politique sociale forte pour le bonheur collectif.
+
+    3.  Reconnaissance de l'interdépendance dans la quête du bonheur
+          > - Exemple : La philosophie africaine Ubuntu "Je suis parce que nous sommes".
+
+6. **Conclusion rédigée**: 
+
+La quête du bonheur peut à première vue sembler égoïste, mais notre exploration a montré que ce n'est pas nécessairement le cas. La recherche du bonheur peut également comprendre une dimension altruiste et sociale profonde. Cette notion est intrinsèquement liée à celle des autres et à la manière dont nous contribuons à leur bien-être. Il existe un équilibre délicat à trouver entre la poursuite de nos propres désirs de bonheur et la compréhension de l'importance de contribuer à la joie des autres. Ce lien entre l'égoïsme et l'altruisme dans la quête du bonheur ajoute une complexité supplémentaire à l'un des objectifs les plus fondamentaux de la vie humaine. En fin de compte, peut-être devrions-nous chercher à définir le bonheur d'une manière qui englobe à la fois notre propre plaisir individuel et le bien-être des autres.
