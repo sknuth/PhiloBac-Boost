@@ -97,24 +97,34 @@ Si vous trouvez des erreurs, n'hésitez pas à les signaler.
 
   Sujet | Commentaire 
   :-----------: | :---: 
-  "Au nom de quoi peut-on s’opposer à l’État ?" | [Explication du sujet](./Liberte/au_nom_de_quoi_opposer_etat.md)
-  "Doit-on tout attendre de l’État ?" | [Explication du sujet](./Liberte/doit_on_tout_attendre_de_l_etat.md)
-  "Le but de l’état est-il de limiter la violence ?" | [Explication du sujet](./Liberte/but_etat_limiter_violence.md) 
-  "L’État doit-il reconnaître des limites à sa puissance ?" | [Explication du sujet](./Liberte/Etat_reconnaitre_limites_puissance.md)
-  "Pourquoi respecter l’autorité de l’État ?" | [Explication du sujet](./Liberte/pourquoi_respecter_autorite_etat.md)
-  "L’État est-il l’ennemi de l’individu ?" | [Explication du sujet](./Liberte/Etat_ennemi_individu.md)
-  "L’État est-il un mal nécessaire ?" | [Explication du sujet](./Liberte/Etat_mal_necessaire.md)
-  "Que devons-nous à l’État ?" | [Explication du sujet](./Liberte/que_devons_nous_a_l_etat.md)
-  "La fonction de l’État est-elle de nous protéger ?" | [Explication du sujet](./Liberte/fonction_etat_nous_proteger.md)
-  "La force est-elle au fondement de l’État ?" | [Explication du sujet](./Liberte/force_fondement_etat.md)
+  "Être libre, est-ce faire ce que l’on veut ?" | [Explication du sujet](./Liberte/etre_libre_faire_veux.md)
+  "À quelles conditions une action est-elle libre ?" | [Explication du sujet](./Liberte/quelles_conditions_action_libre.md)
+  "Faut-il toujours défendre la liberté ?" | [Explication du sujet](./Liberte/toujours_defendre_liberte.md) 
+  "La liberté est-elle une illusion ?" | [Explication du sujet](./Liberte/liberte_illusion.md)
+  "Affirme-t-on sa liberté en refusant toute contrainte ?" | [Explication du sujet](./Liberte/liberte_refus_contrainte.md)
+  "Ma liberté n’est-elle que l’ensemble de mes droits ?" | [Explication du sujet](./Liberte/liberte_ensemble_droits.md)
+  "Suffit-il de se sentir libre pour l’être ?" | [Explication du sujet](./Liberte/sentir_libre.md)
+  "Une contrainte peut-elle être libératrice ?" | [Explication du sujet](./Liberte/contrainte_liberatrice.md)
+  "La liberté a-t-elle un prix ?" | [Explication du sujet](./Liberte/liberte_prix.md)
+  "La liberté se définit-elle comme un pouvoir de refuser ?" | [Explication du sujet](./Liberte/liberte_pouvoir_refuser.md)
   
 </details>
 
 <details>
 <summary>Le Devoir</summary> 
 
-- coming soon... :hourglass_flowing_sand:
-  
+Sujet | Commentaire 
+  :-----------: | :---: 
+  "Pourquoi faire son devoir ?" | [Explication du sujet](./Devoir/Etat_reconnaitre_limites_puissance.md)
+  "Peut-on ignorer son devoir ?" | [Explication du sujet](./Devoir/but_etat_limiter_violence.md) 
+   "Qu’avons-nous à gagner à faire notre devoir ?" | [Explication du sujet](./Devoir/pourquoi_respecter_autorite_etat.md)
+  "Qui peut me dire ce que je dois faire ?" | [Explication du sujet](./Devoir/Etat_ennemi_individu.md)
+  "Suffit-il de faire son devoir ?" | [Explication du sujet](./Devoir/Etat_mal_necessaire.md)
+  "Peut-on accomplir son devoir sans réfléchir ?" | [Explication du sujet](./Devoir/que_devons_nous_a_l_etat.md)
+  "Que risque-t-on à oublier ses devoirs ?" | [Explication du sujet](./Devoir/fonction_etat_nous_proteger.md)
+  "Qu’avons-nous à gagner à faire notre devoir ?" | [Explication du sujet](./Devoir/force_fondement_etat.md)
+  "La poursuite de l’intérêt général exige-t-elle le sacrifice de l’intérêt particulier ?" | [Explication du sujet](./Devoir/doit_on_tout_attendre_de_l_etat.md)
+   "Agir par devoir est-ce agir contre son intérêt ?" | [Explication du sujet](./Devoir/au_nom_de_quoi_opposer_etat.md)
 </details>
 
 <details>
