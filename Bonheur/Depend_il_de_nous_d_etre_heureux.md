@@ -44,7 +44,7 @@ La question du bonheur est un sujet récurrent en philosophie. Elle a suscité d
     3. Le bonheur est une question d'interprétation et d'attitude face à la vie.
           > - Exemple : Les stoïciens qui voient le bonheur comme dépendant de notre capacité à accepter ce qui nous arrive.
     
-*S **III. Dépassement: le bonheur entre déterminisme et libre arbitre**
+* **III. Dépassement: le bonheur entre déterminisme et libre arbitre**
 
     1. La coexistence de la volonté et du déterminisme dans la quête du bonheur.
           > - Exemple : La chance peut ouvrir des portes, mais encore faut-il avoir la volonté d'y entrer.
