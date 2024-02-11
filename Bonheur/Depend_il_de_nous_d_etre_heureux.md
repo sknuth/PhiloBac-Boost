@@ -47,7 +47,7 @@ La question du bonheur est un sujet récurrent en philosophie. Elle a suscité d
 *S **III. Dépassement: le bonheur entre déterminisme et libre arbitre**
 
     1. La coexistence de la volonté et du déterminisme dans la quête du bonheur.
-<          > - Exemple : La chance peut ouvrir des portes, mais encore faut-il avoir la volonté d'y entrer.
+          > - Exemple : La chance peut ouvrir des portes, mais encore faut-il avoir la volonté d'y entrer.
 
     2. L'importance de l'équilibre entre ces deux pôles.
           > - Exemple : Se démener pour des objectifs inatteignables peut engendrer du malheur, comme peut le faire compter exclusivement sur la chance.
