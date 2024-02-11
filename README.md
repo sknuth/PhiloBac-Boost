@@ -39,8 +39,9 @@ Si vous trouvez des erreurs, n'hésitez pas à les signaler.
 <details>
   <summary>L'Inconscient</summary>
 
+
   Sujet | Commentaire 
-  :---: | :---: 
+  :-----------: | :---: 
   "L'hypothèse de l'inconscient est elle nécessaire à la connaissance de soi ?" | [Explication du sujet](./Inconscient/L_hypothese_de_l_inconscient_est_elle_necessaire_a_la_connaissance_de_soi.md)
   "L'idée d'inconscient remet-elle en cause la responsabilité ?" | [Explication du sujet](./Inconscient/L_idee_d_inconscient_remet_elle_en_cause_la_responsabilite.md)
   "L'inconscient_échappe-t'il à toute forme de connaissance ?" | [Explication du sujet](./Inconscient/L_inconscient_echappe_t_il_a_toute_forme_de_connaissance.md)
@@ -49,8 +50,9 @@ Si vous trouvez des erreurs, n'hésitez pas à les signaler.
   "Peut-on connaître l'inconscient ?" | [Explication du sujet](./Inconscient/Peut_on_connaitre_l_inconscient.md)
   "Peut-on reprocher à un être humain d'être inconscient ?" | [Explication du sujet](./Inconscient/Peut_on_reprocher_a_un_etre_humain_d_etre_inconscient.md)
   "Pourquoi s'intéresser à l'inconscient ?" | [Explication du sujet](./Inconscient/Pourquoi_s_interesser_a_l_inconscient.md)
-  "Quelle conception de l'homme l'hypothèse de l'inconscient remet-elle en cause ?" | [Explication du sujet](./Inconscient/Quelle_conception_de_l_homme_l_hypothese_de_l_inconscient_remet_elle_en cause.md)
+  "Quelle conception de l'homme l'hypothèse de l'inconscient remet-elle en cause ?" | [Explication du sujet](./Inconscient/Quelle_conception_de_l_homme_l_hypothese_de_l_inconscient_remet.md)
   "L'inconscience est-elle un défaut ?" | [Explication du sujet](./Inconscient/l_inconscience_est_elle_un_defaut.md)
+
     
 </details>
 
