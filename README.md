@@ -1,5 +1,3 @@
-![GitHub Image](/harold.jpg)
-
 ## PhiloBac-Boost - Sujets de Baccalauréat Commentés
 
 Le Bac Philo approche et vous n'avez pas (ou peu) révisé vos notions ? 
