@@ -33,18 +33,23 @@ Note: Tous ces textes ont été générés automatiquement par GPT4. A prendre a
 <details>
   <summary>L'Inconscient</summary>
 
-  - "La perception est-elle source de connaissance ?" - [Explication du sujet](./Etre_conscient_est_ce_savoir.pdf)
-
+  - "L'hypothèse de l'inconscient est elle nécessaire à la connaissance de soi.md ?" - [Explication du sujet](./Inconscient/L_hypothese_de_l_inconscient_est_elle_necessaire_a_la_connaissance_de_soi.md)
+  - "L'idée d'inconscient remet-elle en cause la responsabilité ?" - [Explication du sujet](./Inconscient/L_idee_d_inconscient_remet_elle_en_cause_la_responsabilite.md)
+  - "L'inconscient_échappe-t'il à toute forme de connaissance?" - [Explication du sujet](./Inconscient/L_inconscient_echappe_t_il_a_toute_forme_de_connaissance.md)
+  - "L'idée d'inconscient remet elle een cause la responsabilité?" - [Explication du sujet](./Inconscient/L_idee_d_inconscient_remet_elle_en_cause_la_responsabilite.md")
+  - "L'idée d'inconscient remet elle een cause la responsabilité?" - [Explication du sujet](./Inconscient/L_idee_d_inconscient_remet_elle_en_cause_la_responsabilite.md")
+  - "L'idée d'inconscient remet elle een cause la responsabilité?" - [Explication du sujet](./Inconscient/L_idee_d_inconscient_remet_elle_en_cause_la_responsabilite.md")
+  - "L'idée d'inconscient remet elle een cause la responsabilité?" - [Explication du sujet](./Inconscient/L_idee_d_inconscient_remet_elle_en_cause_la_responsabilite.md")
+  - "L'idée d'inconscient remet elle een cause la responsabilité?" - [Explication du sujet](./Inconscient/L_idee_d_inconscient_remet_elle_en_cause_la_responsabilite.md")
+  - "L'idée d'inconscient remet elle een cause la responsabilité?" - [Explication du sujet](./Inconscient/L_idee_d_inconscient_remet_elle_en_cause_la_responsabilite.md")
+  - "L'idée d'inconscient remet elle een cause la responsabilité?" - [Explication du sujet](./Inconscient/L_idee_d_inconscient_remet_elle_en_cause_la_responsabilite.md")
+    
 </details>
 
 <details>
   <summary>Le Bonheur</summary>
 
-- "Chercher à être heureux, est-ce une quête égoiste ?" - [Explication du sujet](./Bonheur/Chercher_a_etre_heureux_est_ce_une_quete_egoiste.pdf)
-- "Devons nous rechercher le bonheur ?" - [Explication du sujet](./Bonheur/Devons-nous_rechercher_le_bonheur.pdf)
-- "Être conscient, est-ce savoir ?" - [Explication du sujet](./Etre_conscient_est_ce_savoir.pdf)
-- "Être conscient, est-ce savoir ?" - [Explication du sujet](./Etre_conscient_est_ce_savoir.pdf)
-- "Être conscient, est-ce savoir ?" - [Explication du sujet](./Etre_conscient_est_ce_savoir.pdf)
+- coming soon... :hourglass_flowing_sand:
 
 </details>
 
