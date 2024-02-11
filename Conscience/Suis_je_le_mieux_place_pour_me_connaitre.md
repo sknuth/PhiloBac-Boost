@@ -1,13 +1,13 @@
 1. **Explication du sujet** :
 Le sujet "Suis-je le mieux placé pour me connaître ?" aborde la question de la connaissance de soi, et en particulier, le statut qu'a l'individu dans cette connaissance. Ce sujet met en avant les tensions entre cette connaissance intime basée sur la perception de nos propres sentiments, pensées et expériences, et la connaissance objective basée sur l'observation, l'analyse rationnelle, la critique d'autrui qui nous rend capable de découvrir des aspects inconnus de notre personnalité.
 
-> - Example 1 : Aristote, dans "Éthique à Nicomaque" parle de l'âme et de la connaissance de soi qui selon lui, trouve son origine dans l'activité de la raison. La connaissance de soi naît donc de la réflexion. 
+> - Exemple 1 : Aristote, dans "Éthique à Nicomaque" parle de l'âme et de la connaissance de soi qui selon lui, trouve son origine dans l'activité de la raison. La connaissance de soi naît donc de la réflexion. 
 
-> - Example 2 : Pour Nietzsche, nous ne sommes pas les mieux placés pour nous connaître en raison de notre subjectivité et de notre manque de recul sur nous-mêmes.
+> - Exemple 2 : Pour Nietzsche, nous ne sommes pas les mieux placés pour nous connaître en raison de notre subjectivité et de notre manque de recul sur nous-mêmes.
 
-> - Example 3 : Pour Socrate, "Connais-toi toi-même" est une injonction à l'humilité et une invitation à la connaissance objective de soi. Socrate soutient que nous ne sommes pas nécessairement les mieux placés pour nous connaître.
+> - Exemple 3 : Pour Socrate, "Connais-toi toi-même" est une injonction à l'humilité et une invitation à la connaissance objective de soi. Socrate soutient que nous ne sommes pas nécessairement les mieux placés pour nous connaître.
 
-> - Example 4 : Freud, dans son oeuvre, a mis en évidence l'existence de l'inconscient. Nous sommes pour lui des étrangers à nous-mêmes et nous ne pouvons pas nous connaître parfaitement par nous-mêmes.
+> - Exemple 4 : Freud, dans son oeuvre, a mis en évidence l'existence de l'inconscient. Nous sommes pour lui des étrangers à nous-mêmes et nous ne pouvons pas nous connaître parfaitement par nous-mêmes.
     
 En conclusion, cette tension entre la vision subjective et objective de la connaissance de soi est l'essence même de ce sujet qui demande une réflexion approfondie pour être pleinement compris.
 
