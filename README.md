@@ -20,6 +20,7 @@ Si vous trouvez des erreurs, n'hésitez pas à les signaler.
 <details>
   <summary>La Conscience</summary>
 
+
   Sujet | Commentaire 
   :---: | :---: 
    "Etre conscient est-ce savoir ?" |  [Explication du sujet](./Conscience/Etre_conscient_est_ce_savoir.md) 
@@ -31,23 +32,26 @@ Si vous trouvez des erreurs, n'hésitez pas à les signaler.
    "Sommes-nous conscients ou avons-nous à nous rendre conscients ?" | [Explication du sujet](./Conscience/Sommes_nous_conscients_ou_avons_nous_a_nous_rendre_conscients.md)   
    "Suis-je le mieux placé pour me connaître ?" | [Explication du sujet](./Conscience/Suis_je_le_mieux_place_pour_me_connaitre.md)   
    "Faut-il se méfier de sa conscience ?" | [Explication du sujet](./Conscience/faut_il_se_mefier_de_sa_conscience.md)   
-   "La conscience de soi est elle une connaissance.md ?" | [Explication du sujet](./Conscience/la_conscience_de_soi_est_elle_une_connaissance.md)   
+   "La conscience de soi est elle une connaissance ?" | [Explication du sujet](./Conscience/la_conscience_de_soi_est_elle_une_connaissance.md)   
 
 </details>
 
 <details>
   <summary>L'Inconscient</summary>
 
-  - "L'hypothèse de l'inconscient est elle nécessaire à la connaissance de soi.md ?" - [Explication du sujet](./Inconscient/L_hypothese_de_l_inconscient_est_elle_necessaire_a_la_connaissance_de_soi.md)
-  - "L'idée d'inconscient remet-elle en cause la responsabilité ?" - [Explication du sujet](./Inconscient/L_idee_d_inconscient_remet_elle_en_cause_la_responsabilite.md)
-  - "L'inconscient_échappe-t'il à toute forme de connaissance?" - [Explication du sujet](./Inconscient/L_inconscient_echappe_t_il_a_toute_forme_de_connaissance.md)
-  - "L'idée d'inconscient remet elle een cause la responsabilité?" - [Explication du sujet](./Inconscient/L_idee_d_inconscient_remet_elle_en_cause_la_responsabilite.md")
-  - "L'idée d'inconscient remet elle een cause la responsabilité?" - [Explication du sujet](./Inconscient/L_idee_d_inconscient_remet_elle_en_cause_la_responsabilite.md")
-  - "L'idée d'inconscient remet elle een cause la responsabilité?" - [Explication du sujet](./Inconscient/L_idee_d_inconscient_remet_elle_en_cause_la_responsabilite.md")
-  - "L'idée d'inconscient remet elle een cause la responsabilité?" - [Explication du sujet](./Inconscient/L_idee_d_inconscient_remet_elle_en_cause_la_responsabilite.md")
-  - "L'idée d'inconscient remet elle een cause la responsabilité?" - [Explication du sujet](./Inconscient/L_idee_d_inconscient_remet_elle_en_cause_la_responsabilite.md")
-  - "L'idée d'inconscient remet elle een cause la responsabilité?" - [Explication du sujet](./Inconscient/L_idee_d_inconscient_remet_elle_en_cause_la_responsabilite.md")
-  - "L'idée d'inconscient remet elle een cause la responsabilité?" - [Explication du sujet](./Inconscient/L_idee_d_inconscient_remet_elle_en_cause_la_responsabilite.md")
+  Sujet | Commentaire 
+  :---: | :---: 
+
+ "L'hypothèse de l'inconscient est elle nécessaire à la connaissance de soi.md ?" | [Explication du sujet](./Inconscient/L_hypothese_de_l_inconscient_est_elle_necessaire_a_la_connaissance_de_soi.md)
+   "L'idée d'inconscient remet-elle en cause la responsabilité ?" | [Explication du sujet](./Inconscient/L_idee_d_inconscient_remet_elle_en_cause_la_responsabilite.md)
+   "L'inconscient_échappe-t'il à toute forme de connaissance ?" | [Explication du sujet](./Inconscient/L_inconscient_echappe_t_il_a_toute_forme_de_connaissance.md)
+   "La notion d'inconscient psychique est-elle contradictoire ?" | [Explication du sujet](./Inconscient/La_notion_d_inconscient_psychique_est_elle_contradictoire.md")
+   "Peut-on agir inconsciemment ?" | [Explication du sujet](./Inconscient/Peut_on_agir_inconsciemment.md")
+   "Peut-on connaître l'inconscient ?" | [Explication du sujet](./Inconscient/Peut_on_connaitre_l_inconscient.md)
+   "Peut-on reprocher à un être humain d'être inconscient ?" | [Explication du sujet](./Inconscient/Peut_on_reprocher_a_un_etre_humain_d_etre_inconscient.md")
+   "Pourquoi s'intéresser à l'inconscient ?" | [Explication du sujet](./Inconscient/Pourquoi_s_interesser_a_l_inconscient.md")
+   "Quelle conception de l'homme l'hypothèse de l'inconscient remet-elle en cause ?" | [Explication du sujet](./Inconscient/Quelle_conception_de_l_homme_l_hypothese_de_l_inconscient_remet_elle_en cause.md")
+   "L'inconscience est-elle un défaut ?" | [Explication du sujet](./Inconscient/l_inconscience_est_elle_un_defaut.md")
     
 </details>
 
