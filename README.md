@@ -1,6 +1,6 @@
 # PhiloBac-Boost - un Tremplin Vers la Réussite en Philosophie 
 
-![GitHub Image](./image10b.jpg)
+[<img src="./image10b.jpg" width="1200"/>](image10b.jpg)
 
 ## PhiloBac-Boost - Sujets de Baccalauréat Commentés
 
