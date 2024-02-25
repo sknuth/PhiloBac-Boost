@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is an open source project. if you have questions or suggestions, you can contact me at [sknuth](sawtonknuth@gmail.com)
+This is an open source project. if you have questions or suggestions, you can contact me at [sknuth](mailto:sawtonknuth@gmail.com)
