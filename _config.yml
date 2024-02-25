@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: PhiloBac-Boost
+title: PhiloBac-Boost - Sujets de Baccalauréat commentés
 email: sawtonknuth@gmail.com
 description: Sujets de Baccalauréat Commentés
 baseurl: "" # the subpath of your site, e.g. /blog
