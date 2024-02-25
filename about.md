@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is an open source project. You can find out more info in Github at [PhiloBac-Boost](https://github.com/sknuth/PhiloBac-Boost)
+This is an open source project. if you have questions or suggestions, you can contact me at [sknuth](sawtonknuth@gmail.com)
