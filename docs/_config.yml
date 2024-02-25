@@ -21,7 +21,7 @@
 title: PhiloBac-Boost
 email: sawtonknuth@gmail.com
 description: Sujets de Baccalauréat Commentés
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/PhiloBac-Boost/docs/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: sknuth
 github_username:  sknuth
