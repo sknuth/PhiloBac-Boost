@@ -1,3 +1,5 @@
+**Faut-il chercher le bonheur à tout prix ?**
+
 1. **Explication du sujet** :
 
 Le sujet nous questionne sur la nécessité, l'impératif ou la prudence de chercher le bonheur "à tout prix". Il invite à interroger le concept de "bonheur", son caractère essentiel pour la vie humaine et le "prix" ou les sacrifices que nous sommes prêts à faire pour l'atteindre.

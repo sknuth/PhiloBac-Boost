@@ -1,3 +1,5 @@
+**La liberté se définit-elle comme un pouvoir de refuser ?**
+
 1. **Explication du sujet** :
 
 Le sujet interroge la nature de la liberté en la définissant comme un 'pouvoir de refuser'. En termes simples, il demande si être libre signifie principalement la capacité de dire non ou de résister aux choses qui nous sont imposées.

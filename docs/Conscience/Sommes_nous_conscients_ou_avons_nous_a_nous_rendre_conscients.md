@@ -1,3 +1,5 @@
+**Sommes-nous conscients ou avons-nous à nous rendre conscients ?**
+
 1. **Explication du sujet** :
 
 Le sujet pose la question de la nature et de la qualité de notre conscience. Il invite à réfléchir sur la dualité entre une conscience immédiate, spontanée, naturellement acquise et une conscience élaborée, réfléchie, qui demande un effort de lucidité et d'introspection. 

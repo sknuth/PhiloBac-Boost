@@ -1,3 +1,5 @@
+**Etre conscient est-ce savoir ?** 
+
 1. **Explication du sujet** :
 
 Le sujet questionne la relation entre la conscience et le savoir. Il s'agit d'établir si la conscience de soi garantit une certaine connaissance ou non.

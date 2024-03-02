@@ -1,3 +1,5 @@
+**Peut-on agir inconsciemment ?**
+
 1. **Explication du sujet** :
 
 Le sujet pose la question du lien entre l'agir (l'action, le comportement) et la conscience : peut-on agir, c'est à dire accomplir une action, sans en avoir pleinement conscience ? Il faut ici distinguer entre l'inconscient psychique, qui peut renvoyer à l'interprétation Freudienne de l'inconscient comme siège de désirs refoulés, et l'action inconsciente, qui pourrait être une action accomplie sans réfléchir.

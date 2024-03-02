@@ -1,3 +1,5 @@
+**Faut-il toujours défendre la liberté ?**
+
 1. **Explication du sujet** :
 
 Le sujet "Faut-il toujours défendre la liberté ?" nous invite à réfléchir sur la valeur de la liberté, son rôle dans notre vie, et la nécessité de son défense. On peut l'interpréter de plusieurs manières : est-ce que la liberté est un bien indéniable dont il faut toujours soutenir l'expansion, ou est-ce qu'il y a des moments, des contextes, où la restriction de la liberté pourrait être justifiée ?

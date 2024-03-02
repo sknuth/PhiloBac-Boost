@@ -1,3 +1,5 @@
+**Affirme-t-on sa liberté en refusant toute contrainte ?**
+
 1. **Explication du sujet** :
 
 Le sujet "Affirme-t-on sa liberté en refusant toute contrainte ?" interroge le rapport entre la liberté, souvent entendue comme l'autonomie de l'individu, et la contrainte, perçue comme une limitation ou restriction. Il s'agit de savoir si la négation de toute influence extérieure est la condition nécessaire à l'exercice de la liberté.

@@ -1,3 +1,5 @@
+**La poursuite de l’intérêt général exige-t-elle le sacrifice de l’intérêt particulier ?**
+
 1. **Explication du sujet** :
 
 Le sujet demande de réfléchir sur le rapport entre l'intérêt général, c'est-à-dire le bien commun, et l'intérêt particulier, ce qui serait bénéfique ou désirable pour un individu ou un petit groupe. La question tourne autour de l'idée de 'sacrifice' : faut-il nécessairement sacrifier l'intérêt particulier pour atteindre l'intérêt général ?

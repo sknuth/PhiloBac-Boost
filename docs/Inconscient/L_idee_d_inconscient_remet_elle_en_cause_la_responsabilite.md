@@ -1,3 +1,5 @@
+**L'idée d'inconscient remet-elle en cause la responsabilité ?**
+
 1. **Explication du sujet** :
 
 Le sujet concerne deux concepts clés de la philosophie : l'idée d'inconscient et la notion de responsabilité. L'idée d’inconscient renvoie souvent à la théorie freudienne selon laquelle nous serions animés par des désirs et des forces qui nous sont inaccessibles consciemment. La responsabilité, quant à elle, implique une prise de conscience de ses actions, associe chaque action à un individu et implique qu'en pouvant anticiper les conséquences de nos actes, nous pouvons être tenus pour responsables de ceux-ci.

@@ -1,3 +1,5 @@
+**Le bonheur n'est-il que dans l'attente du bonheur ?**
+
 1. **Explication du sujet** :
 
 Le sujet pose la question du bonheur et de son actualisation. Plus précisément, il interroge les rapports entre l'attente du bonheur et le bonheur lui-même. Autrement dit, le sujet questionne si le bonheur n'est qu'un état prévisionnel ou prospectif (i.e., dans l'attente) plutôt qu'un état présent, effectif et réalisé.

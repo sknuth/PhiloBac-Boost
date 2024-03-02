@@ -1,3 +1,5 @@
+**L’État doit-il reconnaître des limites à sa puissance ?**
+
 1. **Explication du sujet** :
 
 Le sujet invite à examiner la nature de l'État, de sa puissance et les éventuelles limites que cette entité doit reconnaître. Il s'agit donc de questionner la dimension morale, éthique, et juridique de cette puissance. 

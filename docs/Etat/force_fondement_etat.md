@@ -1,3 +1,5 @@
+**La force est-elle au fondement de l’État ?**
+
 1. **Explication du sujet** :
 
 Le sujet questionne le lien entre la force et l'État. Est-ce que la force, entendue ici comme pouvoir coercitif, est le fondement, c'est-à-dire la base sur laquelle se construit et se légitime l'État, ou existe-t-il d'autres fondements plus essentiels ?

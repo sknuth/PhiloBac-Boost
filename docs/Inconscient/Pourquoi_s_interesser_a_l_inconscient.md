@@ -1,3 +1,5 @@
+**Pourquoi s'intéresser à l'inconscient ?**
+
 1. **Explication du sujet** :
 Le sujet invite à réfléchir sur le motif d'intérêt de l'inconscient. C'est-à-dire, à se demander : pourquoi doit-on envisager l'inconscient comme une dimension significative de l'être humain ? C'est une invitation à examiner la nature, le rôle et l'influence de l'inconscient sur l'homme et son comportement. 
 

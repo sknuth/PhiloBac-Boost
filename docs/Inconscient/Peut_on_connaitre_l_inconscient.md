@@ -1,3 +1,5 @@
+**Peut-on connaître l'inconscient ?**
+
 1. **Explication du sujet** :
 
 Le sujet traite de la connaissance de l'inconscient, ce qui met en tension deux termes apparemment contradictoires. Dans sa conception courante, l'inconscient serait ce qui échappe à la conscience, à la connaissance explicite que j'ai de moi-même. Le savoir, par contre, est une activité consciente, engageant notre capacité de comprendre, juger et conceptualiser.

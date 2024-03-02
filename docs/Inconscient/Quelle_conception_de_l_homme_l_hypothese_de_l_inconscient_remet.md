@@ -1,3 +1,5 @@
+**Quelle conception de l'homme l'hypothèse de l'inconscient remet-elle en cause ?**
+
 1. **Explication du sujet** :
 
 Ce sujet invite à examiner une conception classique de l'homme, celle du sujet rationnel et maître de lui-même, à la lumière de la théorie freudienne de l'inconscient. Il questionne la manière dont l'hypothèse de l'inconscient permet de reconsidérer notre compréhension de l'homme et de ses actes.

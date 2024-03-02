@@ -1,3 +1,5 @@
+**À quelles conditions une action est-elle libre ?**
+
 1. **Explication du sujet** :
 
     Le sujet invite à réfléchir sur la nature et les conditions de la liberté d'action. Il suggère qu'il peut y avoir des conditions qui déterminent si une action est libre ou non. 

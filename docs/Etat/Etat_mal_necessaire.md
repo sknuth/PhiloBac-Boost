@@ -1,3 +1,5 @@
+**L’État est-il un mal nécessaire ?**
+
 1. **Explication du sujet** :
 
 Le sujet demande si l’État est un mal qui est néanmoins nécessaire pour l'organisation de la société. On entend par État l'ensemble des institutions capables d'exercer l'autorité sur une entité politiquement organisée et géographiquement déterminée.

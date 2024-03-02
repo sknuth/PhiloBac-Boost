@@ -1,3 +1,5 @@
+**Dépend-il de nous d'être heureux ?**
+
 1. **Explication du sujet** :
 
 Le sujet demande si notre bonheur dépend de nous. Il met l'accent sur la notion du bonheur, et questionne la portée de notre libre arbitre et de notre responsabilité dans l'obtention et la préservation de ce bonheur. 

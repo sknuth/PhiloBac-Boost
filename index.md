@@ -20,14 +20,14 @@ Chaque sujet y est commenté en termes simples et accessibles avec une probléma
 Note: Tous ces textes ont été générés automatiquement par GPT4. A prendre avec précaution. Ils forment néanmoins une base si vous partez de zéro. 
 Si vous trouvez des erreurs, n'hésitez pas à les signaler.
 
-  
-
 ## Sujets de Baccalauréat par Notion
 
 <details>
   <summary>La Conscience</summary>
+  
+ ### [**L'essentiel à savoir**](./docs/Conscience/La_conscience.md)
 
-
+ ### Sujets commentés
   Sujet | Commentaire 
   :---: | :---: 
    "Etre conscient est-ce savoir ?" |  [Explication du sujet](./docs/Conscience/Etre_conscient_est_ce_savoir.html) 
@@ -46,6 +46,9 @@ Si vous trouvez des erreurs, n'hésitez pas à les signaler.
 <details>
   <summary>L'Inconscient</summary>
 
+ ### [**L'essentiel à savoir**](./docs/Inconscient/Inconscient1.md)
+
+ ### Sujets commentés
 
   Sujet | Commentaire 
   :-----------: | :---: 
@@ -66,6 +69,11 @@ Si vous trouvez des erreurs, n'hésitez pas à les signaler.
 <details>
   <summary>Le Bonheur</summary>
 
+ ### [**L'essentiel à savoir**](./docs/Bonheur/Le_Bonheur.md)
+
+ ### Sujets commentés
+
+
   Sujet | Commentaire 
   :-----------: | :---: 
   "Chercher à être heureux est-ce une quête égoïste ?" | [Explication du sujet](./docs/Bonheur/Chercher_a_etre_heureux_est_ce_une_quete_egoiste.html)
@@ -83,6 +91,11 @@ Si vous trouvez des erreurs, n'hésitez pas à les signaler.
 
 <details>  
 <summary>L'Etat</summary>
+
+ ### [**L'essentiel à savoir**](./docs/Etat/Etat.md)
+
+ ### Sujets commentés
+
 
   Sujet | Commentaire 
   :-----------: | :---: 
@@ -102,6 +115,11 @@ Si vous trouvez des erreurs, n'hésitez pas à les signaler.
 <details>
 <summary>La Liberté</summary>
 
+ ### [**L'essentiel à savoir**](./docs/Liberte/Liberte.md)
+
+ ### Sujets commentés
+
+
   Sujet | Commentaire 
   :-----------: | :---: 
   "Être libre, est-ce faire ce que l’on veut ?" | [Explication du sujet](./docs/Liberte/etre_libre_faire_veux.html)
@@ -119,6 +137,11 @@ Si vous trouvez des erreurs, n'hésitez pas à les signaler.
 
 <details>
 <summary>Le Devoir</summary> 
+
+ ### [**L'essentiel à savoir**](./docs/Liberte/Liberte.md)
+
+ ### Sujets commentés
+
 
 Sujet | Commentaire 
   :-----------: | :---: 

@@ -1,3 +1,5 @@
+**Qui peut me dire ce que je dois faire ?**
+
 1. **Explication du sujet** :
 Le sujet interroge sur la connaissance de soi, la liberté et l'autorité. Il s'agit d'explorer qui a l'autorité de décider de nos actions : nous-mêmes ou une entité externe ? 
 

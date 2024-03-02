@@ -1,3 +1,5 @@
+**Pourquoi faire son devoir ?**
+
 1. **Explication du sujet** :
 
 Le sujet "Pourquoi faire son devoir ?" interroge le sens et la nécessité de l'action prescrite par un devoir, qu'il soit moral, professionnel ou citoyen. Il pourrait sembler que le devoir est quelque chose d'imposé, une contrainte à laquelle on se conforme par obligation. Il y a cependant une question sur le pourquoi de cette action : fait-on son devoir par peur de la sanction, par volonté de conformité sociale, ou par conviction personnelle que l'action est bonne en soi ?

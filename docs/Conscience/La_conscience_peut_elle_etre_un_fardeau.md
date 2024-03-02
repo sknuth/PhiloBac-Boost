@@ -1,3 +1,5 @@
+**La conscience peut-elle être un fardeau ?**
+
 1. **Explication du sujet** :
 
 Le sujet interroge sur la possibilité que la conscience soit un fardeau. Pour comprendre ceci, il faut faire l'effort de questionner ce qu'est la conscience et ce qu'impliquerait le fait de la considérer comme un fardeau. La conscience, en philosophie, est généralement entendue comme la capacité de l'esprit à être conscient de ses propres pensées, de ses actions, de ses réflexions et de ses impressions sensorielles. La considérer comme un fardeau impliquerait que cette capacité entraine pour l'individu une charge, une lourdeur, voire une source de souffrance.

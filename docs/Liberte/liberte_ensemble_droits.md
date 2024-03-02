@@ -1,3 +1,5 @@
+**Ma liberté n’est-elle que l’ensemble de mes droits ?**
+
 1. **Explication du sujet** :
 
 Le sujet questionne la nature de notre liberté, se demandant si elle consiste exclusivement en nos droits. Ici, les termes "liberté" et "droits" sont au centre de l'interrogation. La liberté peut être entendue comme la capacité de choisir et d'agir selon notre volonté, tandis que les droits renvoient aux permissions garanties par la loi ou par la morale. 

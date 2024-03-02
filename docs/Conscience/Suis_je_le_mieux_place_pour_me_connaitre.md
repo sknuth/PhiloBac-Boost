@@ -1,3 +1,5 @@
+**Suis-je le mieux placé pour me connaître ?**
+
 1. **Explication du sujet** :
 Le sujet "Suis-je le mieux placé pour me connaître ?" aborde la question de la connaissance de soi, et en particulier, le statut qu'a l'individu dans cette connaissance. Ce sujet met en avant les tensions entre cette connaissance intime basée sur la perception de nos propres sentiments, pensées et expériences, et la connaissance objective basée sur l'observation, l'analyse rationnelle, la critique d'autrui qui nous rend capable de découvrir des aspects inconnus de notre personnalité.
 

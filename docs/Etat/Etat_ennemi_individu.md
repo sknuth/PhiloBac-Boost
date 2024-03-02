@@ -1,3 +1,5 @@
+**L’État est-il l’ennemi de l’individu ?**
+
 1. **Explication du sujet** :
 
 Ce sujet questionne deux structures essentielles de la société : l'État et l'individu. Il pose la question de leur relation et de l'éventuelle hostilité de l'État à l'égard de l'individu, entraînant une réflexion sur la nature de l'État, ses fonctions et son rapport à l'individu.

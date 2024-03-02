@@ -1,3 +1,5 @@
+**Le bonheur n'est-il qu'une question de chance ?**
+
 1. **Explication du sujet** :
 
 Lorsqu'on parle de bonheur, la chance vient souvent à l'esprit. La question du sujet demande si le bonheur est uniquement une question de chance, c'est-à-dire si le bonheur est complètement aléatoire et hors de notre contrôle.

@@ -1,3 +1,5 @@
+**Qu’avons-nous à gagner à faire notre devoir ?**
+
 1. **Explication du sujet** :
 
 Le sujet nous invite à questionner la relation entre devoir et gain. Il y a une supposition implicite que l'accomplissement du devoir doit donner quelque chose en retour, que ce gain soit matérialiste ou moralement significatif. Dans notre culture, le sens commun tend à présenter le devoir comme essentiellement contraignant, opposé au désir et à l'épanouissement personnel.

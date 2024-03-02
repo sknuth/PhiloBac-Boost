@@ -1,3 +1,5 @@
+**Le bonheur est-il inaccessible à l'homme ?**
+
 1. **Explication du sujet** :
 
 Le sujet interroge la capacité de l’homme à atteindre le bonheur. Il propose une vision négative, postulant que le bonheur est inaccessible. Il convient de clarifier ce qu'on entend par "bonheur" et "inaccessible", et dans quelle mesure cette inaccessibilité pourrait être spécifiquement "humaine".

@@ -1,3 +1,5 @@
+**Doit-on tout attendre de l'Etat ?**
+
 1. **Explication du sujet** :
 
 Le sujet « Doit-on tout attendre de l’État ? » interroge le rôle de l'Etat dans la vie des citoyens. L’Etat est conception générale qui représente le pouvoir souverain composé de différents organes destinés à gérer et diriger une société donnée sur un territoire précis. Le terme "tout" dans le sujet peut englober une multitude de choses, allant des services de base (éducation, santé, sécurité) à l'épanouissement personnel (liberté, bonheur).

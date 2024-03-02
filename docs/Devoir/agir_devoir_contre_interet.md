@@ -1,3 +1,5 @@
+**Agir par devoir est-ce agir contre son intérêt ?**
+
 1. **Explication du sujet** :
 
 Le sujet « Agir par devoir est-ce agir contre son intérêt ? » invite à refléchir sur la nature de l'action morale et son rapport à l'intérêt personnel. Ce sujet soulève principalement deux concepts à analyser : le devoir et l'intérêt.

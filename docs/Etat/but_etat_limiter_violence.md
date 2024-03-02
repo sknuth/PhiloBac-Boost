@@ -1,3 +1,4 @@
+**Le but de l’état est-il de limiter la violence ?** 
 
 1. **Explication du sujet** :
 

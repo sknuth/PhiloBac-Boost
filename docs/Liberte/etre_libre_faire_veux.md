@@ -1,3 +1,5 @@
+**Être libre, est-ce faire ce que l’on veut ?**
+
 1. **Explication du sujet** :
 
 Le sujet questionne la notion de liberté en posant cette interrogation : "Être libre, est-ce faire ce que l’on veut?". Il nous invite à explorer l'interrelation entre la liberté – définie ici comme la capacité d'agir selon sa volonté – et le désir, c'est-à-dire ce que l'on veut.

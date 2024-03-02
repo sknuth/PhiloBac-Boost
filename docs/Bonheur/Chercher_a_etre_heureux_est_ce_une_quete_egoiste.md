@@ -1,3 +1,5 @@
+**Chercher à être heureux est-ce une quête égoïste ?**
+
 1. **Explication du sujet** :
 
 Le sujet porte sur le concept de la recherche du bonheur et s'il peut être considéré comme une quête égoïste. On peut supposer que ce sujet interroge l'idée que la recherche du bonheur pourrait être considérée comme égoïste car elle pourrait être perçue comme privilégiant son propre bien-être au détriment de celui des autres.

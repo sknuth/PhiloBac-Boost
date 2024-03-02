@@ -1,3 +1,5 @@
+**Peut-on ignorer son devoir ?**
+
 1. **Explication du sujet** :
 
 Le sujet pose fondamentalement la question de notre conscience et capacité à nier ou à ignorer notre devoir. 

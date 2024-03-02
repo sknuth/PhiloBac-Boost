@@ -1,3 +1,5 @@
+**Peut-on parvenir à une complete conscience de soi ?**
+
 1. **Explication du sujet** :
 
 Le sujet "Peut-on parvenir à une complète conscience de soi ?" nous invite à se pencher sur la capacité de l'homme à avoir une totale connaissance et reconnaissance de soi. Il nous pousse à questionner jusqu'à quel point nous pouvons nous connaître complètement. Le sujet implique des concepts tels que la subjectivité, l'auto-perception, l'introspection et le jugement de soi.

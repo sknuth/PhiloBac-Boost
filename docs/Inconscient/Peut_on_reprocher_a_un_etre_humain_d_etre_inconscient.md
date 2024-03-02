@@ -1,3 +1,5 @@
+**Peut-on reprocher à un être humain d'être inconscient ?**
+
 1. **Explication du sujet** :
 Le sujet interroge la possibilité ou non de blâmer un individu pour son inconscience. Ici, l'inconscience peut être comprise dans une double acception : d'abord au sens de privation de conscience, c'est-à-dire dans un état de sommeil, d'évanouissement ou d'ivresse. Mais aussi, nous pouvons interpréter l'inconscience dans le sens freudien, soit comme le non-su de la conscience, en référence à tout ce que l'individu fait sans en avoir conscience.
 

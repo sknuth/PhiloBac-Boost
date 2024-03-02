@@ -1,3 +1,5 @@
+**La fonction de l’État est-elle de nous protéger ?**
+
 1. **Explication du sujet** :
 
    Le sujet interroge sur le rôle de l'État dans la protection de ses citoyens. Est-ce la fonction principale de l'État que de nous protéger ,ou a-t-il d'autres objectifs primordiaux?

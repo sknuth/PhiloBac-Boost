@@ -1,3 +1,5 @@
+**Suffit-il de se sentir libre pour l’être ?**
+
 1. **Explication du sujet** :
 
 Le sujet pose la question de la pertinence du sentiment de liberté : est-ce que le simple fait de se sentir libre signifie nécessairement que nous le sommes ? Autrement dit, peut-on être libre sans s'en rendre compte, ou au contraire, peut-on se sentir libre alors que nous ne le sommes pas vraiment ?

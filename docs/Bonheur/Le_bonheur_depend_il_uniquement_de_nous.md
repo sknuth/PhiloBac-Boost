@@ -1,3 +1,5 @@
+**Le bonheur dépend-il uniquement de nous ?**
+
 1. **Explication du sujet** :
 
 Le sujet questionne si le bonheur est entièrement dans notre propre contrôle ou s'il dépend de facteurs extérieurs à nous-mêmes. Il interroge sur la nature du bonheur et la capacité de l'homme à le posséder ou à l'atteindre indépendamment de son environnement.

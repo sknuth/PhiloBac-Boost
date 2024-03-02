@@ -1,3 +1,5 @@
+**Suffit-il de faire son devoir ?**
+
 1. **Explication du sujet** :
 
 Le sujet "Suffit-il de faire son devoir?" interroge la pertinence de se limiter à accomplir des obligations morales et sociales sans nécessairement aller au-delà. 

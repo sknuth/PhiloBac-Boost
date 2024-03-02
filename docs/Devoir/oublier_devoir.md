@@ -1,3 +1,5 @@
+**Que risque-t-on à oublier ses devoirs ?**
+
 1. **Explication du sujet** :
 
 Le sujet interroge sur les dangers de l'oubli des devoirs. En contexte, "devoirs" peut signifier les obligations morales, éthiques ou civiques qu'un individu est supposé honorer. L'oubli de ces devoirs pourrait se révéler risqué à plusieurs niveaux.

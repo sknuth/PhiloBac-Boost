@@ -1,3 +1,5 @@
+**Peut-on accomplir son devoir sans réfléchir ?**
+
 1. **Explication du sujet** :
 
 Le sujet questionne la possibilité de réaliser son devoir sans le processus de réflexion. Il interroge la nature du devoir, en tant qu'obligation morale ou juridique, et s'il est possible de l'accomplir intuitivement, sans l'utilisation de la réflexion.

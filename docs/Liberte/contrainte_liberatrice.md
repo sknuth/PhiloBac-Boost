@@ -1,3 +1,5 @@
+**Une contrainte peut-elle être libératrice ?**
+
 1. **Explication du sujet** :
 
    Au premier abord, le sujet "Une contrainte peut-elle être libératrice ?" semble paradoxal. En effet, une contrainte désignant une limitation à la liberté, comment pourrait-elle être en même temps une source de libération ?

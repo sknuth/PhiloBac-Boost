@@ -1,3 +1,5 @@
+**La liberté a-t-elle un prix ?**
+
 1. **Explication du sujet** :
 
 Le sujet pose la question du lien entre la liberté, un concept fondamental de la philosophie, et le prix, qui fait référence à une valeur, souvent matérielle. La question soulève des dimensions multiples : morale, économique, politique et sociale.

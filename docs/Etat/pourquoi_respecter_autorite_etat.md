@@ -1,3 +1,5 @@
+**Pourquoi respecter l’autorité de l’État ?**
+
 **1. Explication du sujet** :
 
 Le sujet interroge le fondement du respect de l'autorité étatique. Il suppose que le respect de l'autorité de l'État est une nécessité, sans pour autant indiquer clairement les raisons de cette nécessité. Le sujet invite donc à une réflexion sur les raisons pour lesquelles l'autorité de l'État devrait être respectée.

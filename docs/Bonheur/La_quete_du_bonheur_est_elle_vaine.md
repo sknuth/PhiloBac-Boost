@@ -1,3 +1,5 @@
+**La quête du bonheur est-elle vaine ?** 
+
 1. **Explication du sujet** :
 
 La question "La quête du bonheur est-elle vaine ?" interroge la recherche du bonheur en tant que fin ultime de la vie humaine, son utilité et son sens. Le terme "vaine" suggère l’inutilité, l'absence de productivité et peut-être même l'irréalisme de cette quête.

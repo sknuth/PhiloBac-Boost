@@ -1,3 +1,5 @@
+**Faut-il se méfier de sa conscience ?**
+
 1. **Explication du sujet** :
 
 Le sujet interroge sur la pertinence de faire confiance à sa conscience. Il s'agit de se demander si, étant donné les erreurs de jugement que peut produire la conscience, une certaine méfiance vis-à-vis d'elle-même est recommandée.

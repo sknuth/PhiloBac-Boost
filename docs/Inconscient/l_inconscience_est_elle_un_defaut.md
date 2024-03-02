@@ -1,3 +1,5 @@
+**L'inconscience est-elle un défaut ?**
+
 1. **Explication du sujet** :
 
 Ce sujet de philosophie nous invite à une réflexion sur la notion d'inconscience. Dans l'usage courant, l'inconscience est perçue comme une absence, une non-conscience, un état d'ignorance ou d'insouciance, qui dans leur acception péjorative, peuvent être perçues comme un défaut. Cependant, d'un point de vue psychanalytique, l'inconscience n'est pas seulement une absence, mais une dimension à part entière de la vie psychique qui échappe à la conscience.

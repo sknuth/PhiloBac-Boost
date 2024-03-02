@@ -1,3 +1,5 @@
+**L'hypothèse de l'inconscient est elle nécessaire à la connaissance de soi ?**
+
 1. **Explication du sujet** :
 
 Dans le sujet proposé, nous avons deux notions clés qui sont "l'inconscient" et "la connaissance de soi". Tout d'abord, l'inconscient est une hypothèse émise par Freud, pour contribuer à la compréhension du psychisme humain. Selon Freud, l'inconscient contient des désirs refoulés, des souvenirs oubliés et des expériences enfouies qui influent sur nos actions, nos comportements sans que nous en soyons conscients. En ce sens, notre "connaissance" de nous-mêmes reste à demi explicitée. De l'autre côté, "la connaissance de soi" est un idéal de la philosophie classique, qui suggère que pour être réellement libres et éclairés, nous devons être capables de comprendre pleinement nos propres motivations, désirs et craintes, de manière consciente. Donc en posant le sujet "L'hypothèse de l'inconscient est-elle nécessaire à la connaissance de soi ?", l'intérêt est de savoir si l'inconscient peut contribuer à la connaissance de soi, ou si au contraire, il la freine.

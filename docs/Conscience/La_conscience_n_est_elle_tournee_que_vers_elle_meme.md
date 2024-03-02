@@ -1,3 +1,5 @@
+**La conscience n'est-elle tournée que vers elle même ?**
+
 1. **Explication du sujet** :
 Le sujet de dissertation "La conscience n'est-elle tournée que vers elle-même ?" appelle à réfléchir sur la nature et les limitations de la conscience humaine. Autrement dit, s'interroge-t-elle uniquement sur elle-même ou est-elle capable d'étendre ses investigations à d'autres domaines ?
 

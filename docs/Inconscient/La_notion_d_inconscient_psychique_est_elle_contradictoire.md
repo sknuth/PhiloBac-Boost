@@ -1,3 +1,5 @@
+**La notion d'inconscient psychique est-elle contradictoire ?**
+
 1. **Explication du sujet** :
 Le sujet questionne la cohérence de présenter l'inconscient comme une dimension psychique. L'inconscient, concept central dans la théorie psychanalytique de Freud, fait référence à une partie de nous-mêmes inaccessible à la conscience. Mais cette notion est-elle contradictoire ? Elle peut paraître paradoxale dans la mesure où l'on conçoit souvent l'esprit comme étroitement lié à la conscience.
 

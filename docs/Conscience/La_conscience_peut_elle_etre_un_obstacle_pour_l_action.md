@@ -1,3 +1,5 @@
+**La conscience peut-elle être un obstacle pour l'action ?**
+
 1. **Explication du sujet** :
 
 Le sujet suppose l'exploration de la relation entre la conscience et l'action. Il demande si la prise de conscience peut entraver notre capacité à agir. 

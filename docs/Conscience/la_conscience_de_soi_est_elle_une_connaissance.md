@@ -1,3 +1,5 @@
+**La conscience de soi est elle une connaissance ?**
+
 1. **Explication du sujet**
 
 Le sujet porte sur deux notions fondamentales de la philosophie: la conscience et la connaissance. Plus précisément, il s'interroge sur le lien entre la conscience de soi et la connaissance. Est-ce que le simple fait d'avoir conscience de soi-même équivaut à se connaître? Il faudrait donc expliquer ce que signifie avoir conscience de soi et ce que signifie se connaître. 

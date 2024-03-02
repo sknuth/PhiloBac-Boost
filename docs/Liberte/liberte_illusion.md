@@ -1,3 +1,5 @@
+**La liberté est-elle une illusion ?**
+
 1. **Explication du sujet** :
 
 Le sujet invite à s'interroger sur la nature de la liberté : est-elle une réalité tangible pour l'homme, ou simplement une croyance trompeuse, autrement dit, une illusion ? 
