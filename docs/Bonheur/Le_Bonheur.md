@@ -1,6 +1,6 @@
 **L'essentiel à savoir** :
 
-Le bonheur renvoie à un état de satisfaction complète, durable et parfait, où tous nos besoins et désirs se trouvent comblés. Il symbolise le but ultime de la vie humaine.  
+Le bonheur renvoie à un état de satisfaction complet, durable et parfait, où tous nos besoins et désirs se trouvent comblés. Il symbolise le but ultime de la vie humaine.  
 
 >- Exemple 1 : Savourer un moment passé avec son meilleur ami.
 >- Exemple 2 : Ressentir une joie profonde après avoir terminé un projet personnel.

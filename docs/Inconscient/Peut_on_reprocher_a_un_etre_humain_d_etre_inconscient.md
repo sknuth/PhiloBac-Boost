@@ -37,8 +37,8 @@ Ce sujet de philosophie nous amène à nous interroger sur le rapport entre l'in
     
     2. La morale et l'inconscience 
           > - Exemple : Pour Kant, la morale consiste à agir en fonction de la raison.
-    
-    3.La conscience comme condition de responsabilité
+
+    3. La conscience comme condition de responsabilité
           > - Exemple :la conscience chez Descartes comme condition pour distinguer ce qui est vrai de ce qui est faux.
 
 
