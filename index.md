@@ -145,7 +145,7 @@ Si vous trouvez des erreurs, n'hésitez pas à les signaler.
 <details>
 <summary>Le Devoir</summary> 
 
- ### [**L'essentiel à savoir**](./docs/Liberte/Le_devoir.md)
+ ### [**L'essentiel à savoir**](./docs/Devoir/Le_devoir.md)
 
  ### Sujets commentés
 
