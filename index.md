@@ -5,11 +5,18 @@
 layout: home
 ---
 
-[<img src="./image10b.jpg" width="600"/>](image10b.jpg)
+[<img src="./image10b.jpg" style="display: block; 
+           margin-left: auto;
+           margin-right: auto;
+           width: 85%;"/>](image10b.jpg)
+
 
 Le Bac Philo approche et vous n'avez pas (ou peu) révisé vos notions ? 
 
-[<img src="./harold.jpg" width="80"/>](harold.jpg)
+[<img src="./harold.jpg" style="display: block; 
+           margin-left: auto;
+           margin-right: auto;
+           width: 30%;"/>](harold.jpg)
 
 Pas de panique ! 
 
@@ -138,7 +145,7 @@ Si vous trouvez des erreurs, n'hésitez pas à les signaler.
 <details>
 <summary>Le Devoir</summary> 
 
- ### [**L'essentiel à savoir**](./docs/Liberte/Liberte.md)
+ ### [**L'essentiel à savoir**](./docs/Liberte/Le_devoir.md)
 
  ### Sujets commentés
 
@@ -234,3 +241,17 @@ Sujet | Commentaire
 - coming soon... 
 
 </details>
+
+
+[<img src="./IMG_1292.jpg" style="display: block; 
+           margin-left: auto;
+           margin-right: auto;
+           width: 50%;"/>](harold.jpg)
+[<img src="./IMG_1294.jpg" style="display: block; 
+           margin-left: auto;
+           margin-right: auto;
+           width: 50%;"/>](harold.jpg)
+[<img src="./IMG_1293.jpg" style="display: block; 
+           margin-left: auto;
+           margin-right: auto;
+           width: 50%;"/>](harold.jpg)
