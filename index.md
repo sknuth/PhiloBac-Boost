@@ -8,7 +8,7 @@ layout: home
 [<img src="./image10b.jpg" style="display: block; 
            margin-left: auto;
            margin-right: auto;
-           width: 85%;"/>](image10b.jpg)
+           width: 100%;"/>](image10b.jpg)
 
 
 Le Bac Philo approche et vous n'avez pas (ou peu) révisé vos notions ? 
