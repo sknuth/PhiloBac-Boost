@@ -51,5 +51,6 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 markdown: GFM
+google_analytics: G-9SCRQFEY7C
 
-
+environment: production
